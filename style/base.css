@@ -1,7 +1,29 @@
+:root {
+  --color-main: #2a4a70;
+  --color-selected-link: #b7becd;
+}
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.main-nav-menu {
+  display: flex;
+  justify-content: center;
+  padding: 1em;
+  background-color: var(--color-main);
+}
+
+.nav-menu-link {
+  font-size: 0.9rem;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.pure-menu-selected > .nav-menu-link {
+  color: var(--color-selected-link) !important;
 }
