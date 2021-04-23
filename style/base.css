@@ -1,6 +1,8 @@
 :root {
   --color-main: #2a4a70;
-  --color-selected-link: #b7becd;
+  --color-text-primary: #222;
+  --color-selected-nav-link: #b7becd;
+  --content-width: 60em;
 }
 
 * {
@@ -9,6 +11,15 @@
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  color: var(--color-text-primary);
+}
+
+.main-wrapper {
+  max-width: var(--content-width);
+  margin: 0 auto;
 }
 
 .main-nav-menu {
@@ -25,5 +36,5 @@
 }
 
 .pure-menu-selected > .nav-menu-link {
-  color: var(--color-selected-link) !important;
+  color: var(--color-selected-nav-link) !important;
 }
