@@ -19,17 +19,22 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+.page-header {
+  background-color: var(--color-brand);
+}
+
 .main-nav-menu {
+  max-width: 72rem;
+  margin: 0 auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: var(--color-brand);
 }
 
 .site-heading {
   padding: .3em 1em;
   color: var(--color-nav-link);
-  font: 2em "Playfair Display", Merriweather, Lato, "Source Sans Pro", Oswald, Georgia, "Times New Roman", Times, serif;
+  font: 2em "Playfair Display", Georgia, Garamond, "Times New Roman", Times, serif;
   font-kerning: normal;
   letter-spacing: .03em;
   text-transform: none;
