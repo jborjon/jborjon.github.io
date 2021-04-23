@@ -1,6 +1,7 @@
 :root {
-  --color-main: #2a4a70;
+  --color-brand: #2a4a70;
   --color-text-primary: #222;
+  --color-nav-link: #fff;
   --color-selected-nav-link: #b7becd;
   --content-width: 60em;
 }
@@ -9,29 +10,35 @@
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
   color: var(--color-text-primary);
-}
-
-.main-wrapper {
-  max-width: var(--content-width);
-  margin: 0 auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
 .main-nav-menu {
   display: flex;
-  justify-content: center;
-  padding: 1em;
-  background-color: var(--color-main);
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--color-brand);
+}
+
+.site-heading {
+  padding: .3em 1em;
+  color: var(--color-nav-link);
+  font: 2em "Playfair Display", Merriweather, Lato, "Source Sans Pro", Oswald, Georgia, "Times New Roman", Times, serif;
+  font-kerning: normal;
+  letter-spacing: .03em;
+  text-transform: none;
+  text-rendering: geometricPrecision;
 }
 
 .nav-menu-link {
   font-size: 0.9rem;
-  color: #fff;
+  color: var(--color-nav-link);
   text-transform: uppercase;
 }
 
