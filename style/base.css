@@ -20,6 +20,7 @@ body {
 }
 
 .page-header {
+  width: 100%;
   background-color: var(--color-brand);
 }
 
