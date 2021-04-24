@@ -1,5 +1,6 @@
 :root {
   --color-brand: #2a4a70;
+  --color-brand-highlight: #ffe3c0;
   --color-text-primary: #222;
   --color-nav-link: #fff;
   --color-nav-link-selected: #b7becd;
@@ -26,6 +27,7 @@ h1 {
 
 .page-header {
   width: 100%;
+  height: 4em;
   background-color: var(--color-brand);
 }
 
@@ -42,7 +44,7 @@ h1 {
 }
 
 .site-heading-link {
-  padding: .3em 1em;
+  padding: .2em .5em .4em .5em;
   color: var(--color-nav-link);
   font: 1em "Playfair Display", Georgia, Garamond, Times, serif;
   font-kerning: normal;
@@ -51,18 +53,28 @@ h1 {
   text-rendering: geometricPrecision;
 }
 
-.nav-menu-link {
+.nav-menu-link,
+.nav-menu-link:visited {
   font: 0.9em Verdana, Tahoma, Helvetica, Arial, sans-serif;
   color: var(--color-nav-link);
   text-transform: uppercase;
+  transition: color .15s;
 }
 
 .nav-menu-link:hover {
-  background-color: initial;
+  background-color: transparent;
+  color: var(--color-nav-link-selected);
+}
+
+.nav-menu-link:active,
+.nav-menu-link:focus {
+  background-color: transparent;
+  color: var(--color-brand-highlight);
+  transition: initial;
 }
 
 .last-name {
-  color: #ffe3c0;
+  color: var(--color-brand-highlight);
 }
 
 .pure-menu-selected > .nav-menu-link {
