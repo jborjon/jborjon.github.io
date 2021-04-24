@@ -3,6 +3,7 @@
   --color-text-primary: #222;
   --color-nav-link: #fff;
   --color-selected-nav-link: #b7becd;
+  --color-highlight-word: #ffe3c0;
   --content-width: 60em;
 }
 
@@ -52,7 +53,7 @@ h1 {
 }
 
 .highlight-word {
-  color: #ffe3c0;
+  color: var(--color-highlight-word);
 }
 
 .nav-menu-link {
