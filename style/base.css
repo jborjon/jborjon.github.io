@@ -2,8 +2,7 @@
   --color-brand: #2a4a70;
   --color-text-primary: #222;
   --color-nav-link: #fff;
-  --color-selected-nav-link: #b7becd;
-  --color-highlight-word: #ffe3c0;
+  --color-nav-link-selected: #b7becd;
   --content-width: 60em;
 }
 
@@ -14,7 +13,7 @@
 }
 
 body {
-  font-family: Merriweather, Georgia, Garamond, "Times New Roman", Times, serif;
+  font-family: Merriweather, Georgia, Garamond, Times, serif;
   color: var(--color-text-primary);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -22,7 +21,7 @@ body {
 }
 
 h1 {
-  font: normal 2em Oswald, Helvetica, Verdana, Tahoma, Arial, sans-serif;
+  font: normal 2em Oswald, Verdana, Tahoma, Helvetica, Arial, sans-serif;
 }
 
 .page-header {
@@ -45,23 +44,27 @@ h1 {
 .site-heading-link {
   padding: .3em 1em;
   color: var(--color-nav-link);
-  font: 1em "Playfair Display", Georgia, Garamond, "Times New Roman", Times, serif;
+  font: 1em "Playfair Display", Georgia, Garamond, Times, serif;
   font-kerning: normal;
   letter-spacing: .03em;
   text-transform: none;
   text-rendering: geometricPrecision;
 }
 
-.highlight-word {
-  color: var(--color-highlight-word);
-}
-
 .nav-menu-link {
-  font: 0.9em Lato, Helvetica, Verdana, Tahoma, Arial, sans-serif;
+  font: 0.9em Verdana, Tahoma, Helvetica, Arial, sans-serif;
   color: var(--color-nav-link);
   text-transform: uppercase;
 }
 
+.nav-menu-link:hover {
+  background-color: initial;
+}
+
+.last-name {
+  color: #ffe3c0;
+}
+
 .pure-menu-selected > .nav-menu-link {
-  color: var(--color-selected-nav-link) !important;
+  color: var(--color-nav-link-selected) !important;
 }
