@@ -13,10 +13,15 @@
 }
 
 body {
+  font-family: Merriweather, Georgia, Garamond, "Times New Roman", Times, serif;
   color: var(--color-text-primary);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+}
+
+h1 {
+  font: normal 2em Oswald, Helvetica, Verdana, Tahoma, Arial, sans-serif;
 }
 
 .page-header {
@@ -32,18 +37,26 @@ body {
   align-items: center;
 }
 
-.site-heading {
+.site-heading-title {
+  margin: 0;
+}
+
+.site-heading-link {
   padding: .3em 1em;
   color: var(--color-nav-link);
-  font: 2em "Playfair Display", Georgia, Garamond, "Times New Roman", Times, serif;
+  font: 1em "Playfair Display", Georgia, Garamond, "Times New Roman", Times, serif;
   font-kerning: normal;
   letter-spacing: .03em;
   text-transform: none;
   text-rendering: geometricPrecision;
 }
 
+.highlight-word {
+  color: #ffe3c0;
+}
+
 .nav-menu-link {
-  font-size: 0.9rem;
+  font: 0.9em Lato, Helvetica, Verdana, Tahoma, Arial, sans-serif;
   color: var(--color-nav-link);
   text-transform: uppercase;
 }
