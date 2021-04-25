@@ -27,17 +27,14 @@ h1 {
 
 .page-header {
   width: 100%;
-  height: 4em;
+  height: 6em;
   background-color: var(--color-brand);
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
 }
 
 .main-nav-menu {
-  max-width: 72rem;
+  display: block;
   margin: 0 auto;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
 }
 
 .site-heading-title {
@@ -80,4 +77,17 @@ h1 {
 
 .pure-menu-selected > .nav-menu-link {
   color: var(--color-nav-link-selected) !important;
+}
+
+@media screen and (min-width: 48em) {
+  .page-header {
+    height: 4em;
+  }
+
+  .main-nav-menu {
+    max-width: 72rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
 }
