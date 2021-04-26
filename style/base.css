@@ -108,7 +108,8 @@ main ol {
   margin-bottom: 1.5em;
 }
 
-.feed-article-title {
+.feed-article-title,
+main ul > li {
   margin-bottom: .5em;
 }
 
