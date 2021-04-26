@@ -21,8 +21,14 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-h1 {
-  font: normal 2em Oswald, Verdana, Tahoma, Helvetica, Arial, sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Oswald, Verdana, Tahoma, Helvetica, Arial, sans-serif;
+  font-weight: normal;
 }
 
 .page-header {
@@ -77,6 +83,17 @@ h1 {
 
 .pure-menu-selected > .nav-menu-link {
   color: var(--color-nav-link-selected) !important;
+}
+
+main,
+hr,
+.page-footer {
+  margin: 0 auto;
+  max-width: var(--content-width);
+}
+
+.page-footer > p {
+  text-align: center;
 }
 
 @media screen and (min-width: 48em) {
