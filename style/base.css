@@ -2,9 +2,10 @@
   --color-brand: #2a4a70;
   --color-brand-highlight: #ffe3c0;
   --color-text-primary: #222;
+  --color-text-secondary: #444;
   --color-nav-link: #fff;
   --color-nav-link-selected: #b7becd;
-  --content-width: 60em;
+  --content-width: 42em;
 }
 
 * {
@@ -86,9 +87,41 @@ h6 {
 }
 
 main,
-hr,
 .page-footer {
   margin: 0 auto;
+  padding: 1em;
+  max-width: var(--content-width);
+}
+
+main p,
+main ul,
+main ol {
+  line-height: 1.5;
+}
+
+.feed-section-title {
+  margin-top: 1.5em;
+  font-style: italic;
+}
+
+.feed-article-link {
+  margin-bottom: 1.5em;
+}
+
+.feed-article-title {
+  margin-bottom: .5em;
+}
+
+.feed-article-title > a {
+  color: var(--color-text-primary);
+}
+
+.text-blurb {
+  margin-top: 0;
+  color: var(--color-text-secondary);
+}
+
+hr {
   max-width: var(--content-width);
 }
 
