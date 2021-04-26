@@ -101,7 +101,7 @@ main ol {
 
 .feed-section-title {
   margin-top: 1.5em;
-  font-style: italic;
+  color: var(--color-brand);
 }
 
 .feed-article-link {
