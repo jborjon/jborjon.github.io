@@ -95,7 +95,8 @@ main,
 
 main p,
 main ul,
-main ol {
+main ol,
+main ul {
   line-height: 1.5;
 }
 
