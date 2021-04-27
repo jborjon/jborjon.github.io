@@ -110,6 +110,7 @@ main ul {
 }
 
 .feed-article-title,
+main ol > li,
 main ul > li {
   margin-bottom: .5em;
 }
