@@ -36,7 +36,7 @@ layout: default
 </section>
 
 <section class="feed-article-link">
-  <h3 class="feed-article-title"><a href="portfolio/ada-requirements-for-ramps.html">ADA Requirements for Wheelchair Ramps and How to Meet Standards</a></h3>
+  <h3 class="feed-article-title"><a href="portfolio/ada-requirements-for-ramps">ADA Requirements for Wheelchair Ramps and How to Meet Standards</a></h3>
   <p class="text-blurb">If you&#39;re a business owner with a public-facing building, you need to comply with ADA requirements for ramps, but do you know what they are?</p>
 </section>
 
