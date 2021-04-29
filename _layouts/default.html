@@ -3,13 +3,21 @@
   <head>
     <meta charset="utf-8">
     <meta name="author" content="Joseph Borjon">
+    {%- if page.description %}
+    <meta name="description" content="{{ page.description }}">
+    {% else %}
     <meta name="description" content="{{ site.description }}">
-    {% if page.layout == "article" %}
+    {% endif -%}
+    {%- if page.layout == "article" %}
     <meta name="robots" content="noindex, nofollow">
-    {% endif %}
+    {% endif -%}
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    {% if page.id == "home" -%}
     <title>{{ site.name }}</title>
+    {%- else %}
+    <title>{{ page.title }} — {{ site.name }}</title>
+    {% endif %}
 
     <link rel="icon" href="/favicons/favicon-32.png">
     <link rel="stylesheet" href="/style/base.css">
@@ -46,9 +54,9 @@
       <nav class="pure-menu pure-menu-horizontal main-nav-menu">
         <h1 class="site-heading-title"><a class="pure-menu-heading site-heading-link" href="/index">Joseph <span class="last-name">Borjon</span></a></h1>
         <ul class="pure-menu-list">
-          <li class="pure-menu-item"><a href="/index" class="pure-menu-link nav-menu-link">Home</a></li>
-          <li class="pure-menu-item"><a href="/about" class="pure-menu-link nav-menu-link">About</a></li>
-          <li class="pure-menu-item"><a href="/contact" class="pure-menu-link nav-menu-link">Contact</a></li>
+          <li class="pure-menu-item {%- if page.id == 'home' %} pure-menu-selected{% endif %}"><a href="/index" class="pure-menu-link nav-menu-link">Home</a></li>
+          <li class="pure-menu-item {%- if page.id == 'about' %} pure-menu-selected{% endif %}"><a href="/about" class="pure-menu-link nav-menu-link">About</a></li>
+          <li class="pure-menu-item {%- if page.id == 'contact' %} pure-menu-selected{% endif %}"><a href="/contact" class="pure-menu-link nav-menu-link">Contact</a></li>
         </ul>
       </nav>
     </header>

@@ -1,5 +1,5 @@
 ---
-title: The Incredible Benefits of Early Intervention for Children With Autism</h1>
+title: The Incredible Benefits of Early Intervention for Children With Autism
 layout: article
 ---
 

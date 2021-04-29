@@ -1,6 +1,7 @@
 ---
 title: Writing Portfolio
 layout: info-page
+id: home
 ---
 
 <h2 class="feed-section-title">Articles</h2>

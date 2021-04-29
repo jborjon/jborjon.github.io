@@ -1,5 +1,5 @@
 ---
-title: Why Do Companies Invest in Business Intelligence Applications?</h1>
+title: Why Do Companies Invest in Business Intelligence Applications?
 layout: article
 ---
 
