@@ -13,8 +13,8 @@ The low pH of this bread gives it a longer shelf life—4 to 5 days or more at r
 
 Ingredients:
 
-*   Blend of unbleached white, whole wheat, rye, and spelt flours
-*   Water
-*   Sourdough starter (whole wheat flour, water)
-*   Salt
-*   Rice flour (for dusting only)
+- Blend of unbleached white, whole wheat, rye, and spelt flours
+- Water
+- Sourdough starter (whole wheat flour, water)
+- Salt
+- Rice flour (for dusting only)

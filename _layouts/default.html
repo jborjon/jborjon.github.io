@@ -1,7 +1,6 @@
 ---
 layout: compress
 ---
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -23,6 +22,9 @@ layout: compress
     <title>{{ page.title }} — {{ site.name }}</title>
     {% endif %}
 
+    {%- if page.id == "home" %}
+    <link rel="canonical" href="{{ site.url }}">
+    {% endif -%}
     <link rel="icon" href="/favicons/favicon-32.png">
     <link rel="stylesheet" href="/style/base.css">
 
@@ -59,9 +61,9 @@ layout: compress
   <body>
     <header class="page-header">
       <nav class="pure-menu pure-menu-horizontal main-nav-menu">
-        <h1 class="site-heading-title"><a class="pure-menu-heading site-heading-link" href="/index">Joseph <span class="last-name">Borjon</span></a></h1>
+        <h1 class="site-heading-title"><a class="pure-menu-heading site-heading-link" href="/">Joseph <span class="last-name">Borjon</span></a></h1>
         <ul class="pure-menu-list">
-          <li class="pure-menu-item {%- if page.id == 'home' %} pure-menu-selected{% endif %}"><a href="/index" class="pure-menu-link nav-menu-link">Home</a></li>
+          <li class="pure-menu-item {%- if page.id == 'home' %} pure-menu-selected{% endif %}"><a href="/" class="pure-menu-link nav-menu-link">Home</a></li>
           <li class="pure-menu-item {%- if page.id == 'about' %} pure-menu-selected{% endif %}"><a href="/about" class="pure-menu-link nav-menu-link">About</a></li>
           <li class="pure-menu-item {%- if page.id == 'contact' %} pure-menu-selected{% endif %}"><a href="/contact" class="pure-menu-link nav-menu-link">Contact</a></li>
         </ul>
@@ -72,8 +74,8 @@ layout: compress
       {{ content }}
     </main>
 
-    <hr>
     <footer class="page-footer">
+      <hr>
       <p>© 2021 Joseph Borjon</p>
     </footer>
   </body>
