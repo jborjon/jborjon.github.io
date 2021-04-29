@@ -24,6 +24,7 @@ https://github.com/pure-css/pure/blob/master/LICENSE
   --color-text-secondary: #444;
   --color-nav-link: #fff;
   --color-nav-link-selected: #b7becd;
+  --color-hr: #aaa;
   --content-width: 42em;
 }
 
@@ -145,6 +146,9 @@ main ul > li {
 
 hr {
   max-width: var(--content-width);
+  border: 0;
+  height: 1px;
+  background: var(--color-hr);
 }
 
 .page-footer > p {

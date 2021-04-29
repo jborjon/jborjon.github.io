@@ -1,6 +1,6 @@
 ---
 title: French-Style Artisan Sourdough Bread
-layout: default
+layout: article
 ---
 
 After slicing this bread, pause for a moment to appreciate its healthy color and smell its nutty, slightly tangy aroma. Then take a bite and notice the contrast between the crackle of the crust and the softness of the crumb. Follow the complexity of flavors, which evolves as you chew.

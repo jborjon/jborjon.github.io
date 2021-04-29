@@ -1,6 +1,6 @@
 ---
 title: Writing Portfolio
-layout: default
+layout: info-page
 ---
 
 <h2 class="feed-section-title">Articles</h2>

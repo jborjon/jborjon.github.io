@@ -1,6 +1,6 @@
 ---
 title: The Story of Joe’s Dough
-layout: default
+layout: article
 ---
 
 Two thousand and twelve was the year the world didn’t end. What a great thing, because that’s also the year I baked my first sourdough loaf.

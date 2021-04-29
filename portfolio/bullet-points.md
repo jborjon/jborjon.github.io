@@ -1,6 +1,6 @@
 ---
 title: How to Write Amazing Resume Bullet Points that Get You Interviews [Guide]
-layout: default
+layout: article
 ---
 
 Did you know that, when you apply online for that job your heart is set on, <a href="https://www.glassdoor.com/employers/blog/50-hr-recruiting-stats-make-think/#:~:text=On%20average,%20each%20corporate%20job%20opening%20attracts%20250%20resumes" target="_blank">you’re competing with an average of 249 other applicants</a>?

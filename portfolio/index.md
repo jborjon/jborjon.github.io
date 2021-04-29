@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-layout: default
+layout: info-page
 ---
 
 This is where the writing samples go.

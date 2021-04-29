@@ -1,6 +1,6 @@
 ---
 title: "Take the Cloud With You: A Guide to Edge Computing"
-layout: default
+layout: article
 ---
 
 Over $43 billion. That's how big <a href="https://www.grandviewresearch.com/press-release/global-edge-computing-market" target="_blank">Grand View Research</a> predicts the edge computing market will be around the world by 2027.

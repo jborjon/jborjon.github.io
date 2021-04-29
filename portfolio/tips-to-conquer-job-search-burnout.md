@@ -1,6 +1,6 @@
 ---
 title: 7 Tips to Conquer Job-Search Burnout
-layout: default
+layout: article
 ---
 
 You’ve been at it for weeks. Months. Sending application after application, with little to no response. And it’s starting to get to you.
@@ -119,4 +119,4 @@ Ultimately, even if you are the best candidate, the hiring process doesn’t gua
 
 Eventually, your job search will yield results. Have hope and confidence in yourself. After all, you’ve been exercising your work ethic by searching incredibly hard for your next job. You have what it takes to land it.
 
-Browse <a href="https://www.promotedresume.com/blog/how-to-get-your-resume-past-the-applicant-tracking-systems-ats" target="_blank">our blog</a> for additional articles on developing your career.
+Browse <a href="https://www.promotedresume.com/blog" target="_blank">our blog</a> for additional articles on developing your career.
