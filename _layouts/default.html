@@ -58,6 +58,10 @@ layout: compress
       }
     </style>
     <link rel="stylesheet" href="/style/base.css">
+
+    {%- if page.id == "contact" %}
+    <script defer src="/scripts/decode.js"></script>
+    {%- endif %}
   </head>
 
   <body>

@@ -120,9 +120,12 @@ main ul {
   line-height: 1.5;
 }
 
+main h2 {
+  color: var(--color-brand);
+}
+
 .feed-section-title {
   margin-top: 1.5em;
-  color: var(--color-brand);
 }
 
 .feed-article-link {
