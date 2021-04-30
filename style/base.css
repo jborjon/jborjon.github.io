@@ -167,11 +167,11 @@ hr {
     max-width: 72rem;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: baseline;
   }
 
-  article h1 {
-    font-size: 3em;
+  .article-title {
+    font-size: 2.7em;
     text-align: center;
   }
 }

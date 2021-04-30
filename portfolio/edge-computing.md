@@ -23,12 +23,12 @@ Think of how cloud-enabled apps work. Take Siri, for example. You ask her, "Hey 
 
 The steps she follows to give you an answer may look something like this:
 
-1.  Compress the recorded sound of your voice so it uses less network bandwidth
-2.  Send the question as a sound bite to one of Apple's servers on the cloud
-3.  Without your device's intervention, the server interprets your voice through a natural language processing algorithm
-4.  The server decides what to do based on its understanding of your question
-5.  The server sends directions to Siri on your device
-6.  Siri heeds the directions she gets from the cloud and responds to your question accordingly
+1. Compress the recorded sound of your voice so it uses less network bandwidth
+1. Send the question as a sound bite to one of Apple's servers on the cloud
+1. Without your device's intervention, the server interprets your voice through a natural language processing algorithm
+1. The server decides what to do based on its understanding of your question
+1. The server sends directions to Siri on your device
+1. Siri heeds the directions she gets from the cloud and responds to your question accordingly
 
 As you can see, your device doesn't have much of a say in what happens after you ask the question. The heavy lifting happens on the cloud.
 
@@ -40,11 +40,11 @@ What if Siri and other apps could do most of the processing directly on your dev
 
 Here's what would happen:
 
-*   Cloud servers would have less load to handle
-*   There'd be less data to send back and forth across the network and, therefore, less demand for bandwidth
-*   There would be a significant reduction in latencies and delays
-*   The app might even work without an Internet connection
-*   Your raw data wouldn't need to travel around so much, which would help protect your privacy
+- Cloud servers would have less load to handle
+- There'd be less data to send back and forth across the network and, therefore, less demand for bandwidth
+- There would be a significant reduction in latencies and delays
+- The app might even work without an Internet connection
+- Your raw data wouldn't need to travel around so much, which would help protect your privacy
 
 That's where we're headed in the next few years. The changes in the infrastructure are already happening at the enterprise and consumer levels.
 

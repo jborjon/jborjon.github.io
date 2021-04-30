@@ -17,11 +17,15 @@ layout: compress
     {% endif -%}
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    {% assign occupation = "Copywriter and Content Writer" -%}
+  
     {% if page.id == "home" -%}
-    <title>{{ site.name }}</title>
     <meta http-equiv="refresh" content="0; URL=/portfolio/">
-    {%- else %}
+    <title>{{ site.name }}, {{ occupation }}</title>
+    {% elsif page.layout == "article" %}
     <title>{{ page.title }} — {{ site.name }}</title>
+    {%- else %}
+    <title>{{ page.title }} — {{ site.name }}, {{ occupation }}</title>
     {% endif %}
 
     {%- if page.id == "home" %}
