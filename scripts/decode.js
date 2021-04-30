@@ -8,7 +8,7 @@
   }
  
   let contactArea = document.getElementById("contact-info"),
-      contactInfo = "<" + "n uers" + "='znvygb:jbex" + "@wbfrcuobewba." + "pbz?fhowrpg=Vadhvel%20sebz%20Jrofvgr'>jbex" + "@wbfrcuobewba." + "pbz</n>";
+      contactInfo = "<" + "n uers" + "='znvygb:jbex" + "@wbfr" + "cuobewba.p" + "bz?fhowrpg=Vadhvel%20sebz%20Jrofvgr'>jbex" + "@wbfrcuobewba" + "." + "pb" + "z</n>";
 
   contactArea.innerHTML = rotateText(contactInfo);
 }());
