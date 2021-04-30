@@ -169,4 +169,9 @@ hr {
     justify-content: space-between;
     align-items: center;
   }
+
+  article h1 {
+    font-size: 3em;
+    text-align: center;
+  }
 }
