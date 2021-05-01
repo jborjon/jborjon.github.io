@@ -10,15 +10,15 @@ id: contact
 
 <form class="pure-form pure-form-stacked kwes-form" action="https://kwes.io/api/foreign/forms/GWQQRHUOX2O5yIwqWHD9">
   <p>
-    <label for="client-name">Your name</label>
-    <input type="text" name="client-name" rules="required|max:255">
+    <label for="client-name">Your name <span class="form-required-mark">*</span></label>
+    <input required type="text" name="client-name">
   </p>
   <p>
-    <label for="subject">Your name</label>
+    <label for="subject">Subject</label>
     <input type="text" name="subject" rules="max:255">
   </p>
   <p>
-    <label for="client-message">Message</label>
+    <label for="client-message">Message <span class="form-required-mark">*</span></label>
     <textarea required name="client-message" cols="80" rows="8"></textarea>
   </p>
 
