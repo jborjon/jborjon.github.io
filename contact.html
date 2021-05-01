@@ -8,14 +8,18 @@ id: contact
 
 <h2>Or contact me through the form below</h2>
 
-<form class="pure-form kwes-form" action="https://kwes.io/api/foreign/forms/GWQQRHUOX2O5yIwqWHD9">
+<form class="pure-form pure-form-stacked kwes-form" action="https://kwes.io/api/foreign/forms/GWQQRHUOX2O5yIwqWHD9">
   <p>
-    <label for="name">Your name</label>
-    <input type="text" name="name" rules="required|max:255">
+    <label for="client-name">Your name</label>
+    <input type="text" name="client-name" rules="required|max:255">
+  </p>
+  <p>
+    <label for="subject">Your name</label>
+    <input type="text" name="subject" rules="max:255">
   </p>
   <p>
     <label for="client-message">Message</label>
-    <textarea class="pure-input-1-2" name="client-message" cols="64" rows="24"></textarea>
+    <textarea required name="client-message" cols="80" rows="8"></textarea>
   </p>
 
   <button type="submit">Send message</button>

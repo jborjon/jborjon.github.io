@@ -52,6 +52,12 @@ h6 {
   font-weight: normal;
 }
 
+textarea {
+  max-width: 100%;
+  color: var(--color-text-primary);
+  font-family: Verdana, Tahoma, Helvetica, Arial, sans-serif;
+}
+
 .page-header {
   width: 100%;
   height: 6em;
