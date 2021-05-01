@@ -24,6 +24,7 @@ https://github.com/pure-css/pure/blob/master/LICENSE
   --color-text-secondary: #444;
   --color-nav-link: #fff;
   --color-nav-link-selected: #b7becd;
+  --color-required-mark: #f00;
   --color-hr: #aaa;
   --content-width: 42em;
 }
@@ -158,6 +159,10 @@ hr {
   border: 0;
   height: 1px;
   background: var(--color-hr);
+}
+
+.form-required-mark {
+  color: var(--color-required-mark);
 }
 
 .page-footer > p {
