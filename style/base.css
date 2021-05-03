@@ -25,6 +25,7 @@ https://github.com/pure-css/pure/blob/master/LICENSE
   --color-nav-link: #fff;
   --color-nav-link-selected: #b7becd;
   --color-required-mark: #70152a;
+  --color-text-input: #666666;
   --color-hr: #aaa;
   --content-width: 42em;
 }
@@ -54,16 +55,20 @@ h6 {
 }
 
 textarea {
-  max-width: 100%;
   color: var(--color-text-primary);
-  font-family: Verdana, Tahoma, Helvetica, Arial, sans-serif;
+}
+
+textarea,
+[type="text"],
+[type="email"] {
+  font: .95em Verdana, Tahoma, Helvetica, Arial, sans-serif;
 }
 
 .page-header {
   width: 100%;
   height: 6em;
   background-color: var(--color-brand);
-  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
 }
 
 .main-nav-menu {
@@ -87,7 +92,7 @@ textarea {
 
 .nav-menu-link,
 .nav-menu-link:visited {
-  font: 0.9em Verdana, Tahoma, Helvetica, Arial, sans-serif;
+  font: .9em Verdana, Tahoma, Helvetica, Arial, sans-serif;
   color: var(--color-nav-link);
   text-transform: uppercase;
   transition: color .15s;
