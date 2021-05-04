@@ -8,21 +8,19 @@ id: contact
 
 <h2>Or use the form below to reach me</h2>
 
-{% assign field_width = 24 -%}
-
 <form class="pure-form pure-form-stacked kwes-form" action="https://kwes.io/api/foreign/forms/GWQQRHUOX2O5yIwqWHD9">
   <p>
     <label for="client-name">Name <span class="form-required-mark">*</span></label>
-    <input type="text" size="{{ field_width }}" name="client-name" placeholder="Your Name" required>
+    <input type="text" name="client-name" placeholder="Your Name" required>
   </p>
   <p>
     <label for="email">Email <span class="form-required-mark">*</span></label>
-    <input type="email" size="{{ field_width }}" name="email" placeholder="you@example.com" required>
+    <input type="email" name="email" placeholder="you@example.com" required>
   </p>
   <p>
     <label for="client-message">Message</label>
-    <textarea name="client-message" class="pure-input-1" cols="80" rows="8" placeholder="Hi, Joseph..."></textarea>
+    <textarea name="client-message" cols="80" rows="6" placeholder="Hi, Joseph..."></textarea>
   </p>
 
-  <button type="submit">Send</button>
+  <button type="submit" class="send-button">Send</button>
 </form>

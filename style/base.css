@@ -55,12 +55,14 @@ h6 {
 }
 
 textarea {
+  max-width: 100%;
   color: var(--color-text-primary);
 }
 
 textarea,
-[type="text"],
-[type="email"] {
+input[type="text"],
+input[type="email"] {
+  width: 100%;
   font: .95em Verdana, Tahoma, Helvetica, Arial, sans-serif;
 }
 
@@ -175,6 +177,11 @@ hr {
 }
 
 @media screen and (min-width: 48em) {
+  input[type="text"],
+  input[type="email"] {
+    width: 42%;
+  }
+
   .page-header {
     height: 4em;
   }
