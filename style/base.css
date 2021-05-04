@@ -22,12 +22,15 @@ https://github.com/pure-css/pure/blob/master/LICENSE
   --color-brand-secondary: #ffe3c0;
   --color-text-primary: #222;
   --color-text-secondary: #444;
-  --color-nav-link: #fff;
-  --color-nav-link-selected: #b7becd;
-  --color-required-mark: #70152a;
+  --color-light-text: #fff;
+  --color-link-hover-selected: #b7becd;
+  --color-focus-outline: #333 ;
+  --color-ui-notice: #70152a;
   --color-text-input: #666666;
   --color-hr: #aaa;
   --content-width: 42em;
+  --ui-font-family: Verdana, Tahoma, Helvetica, Arial, sans-serif;
+  --transition-duration: .15s;
 }
 
 * {
@@ -55,7 +58,6 @@ h6 {
 }
 
 textarea {
-  max-width: 100%;
   color: var(--color-text-primary);
 }
 
@@ -63,7 +65,7 @@ textarea,
 input[type="text"],
 input[type="email"] {
   width: 100%;
-  font: .95em Verdana, Tahoma, Helvetica, Arial, sans-serif;
+  font: .95em var(--ui-font-family);
 }
 
 .page-header {
@@ -84,7 +86,7 @@ input[type="email"] {
 
 .site-heading-link {
   padding: .22em .5em;
-  color: var(--color-nav-link);
+  color: var(--color-light-text);
   font: 1em "Playfair Display", Georgia, Garamond, Times, serif;
   font-kerning: normal;
   letter-spacing: .03em;
@@ -94,15 +96,15 @@ input[type="email"] {
 
 .nav-menu-link,
 .nav-menu-link:visited {
-  font: .9em Verdana, Tahoma, Helvetica, Arial, sans-serif;
-  color: var(--color-nav-link);
+  font: .9em var(--ui-font-family);
+  color: var(--color-light-text);
   text-transform: uppercase;
-  transition: color .15s;
+  transition: color var(--transition-duration);
 }
 
 .nav-menu-link:hover {
   background-color: transparent;
-  color: var(--color-nav-link-selected);
+  color: var(--color-link-hover-selected);
 }
 
 .nav-menu-link:active,
@@ -117,7 +119,7 @@ input[type="email"] {
 }
 
 .pure-menu-selected > .nav-menu-link {
-  color: var(--color-nav-link-selected) !important;
+  color: var(--color-link-hover-selected) !important;
 }
 
 main,
@@ -169,7 +171,25 @@ hr {
 }
 
 .form-required-mark {
-  color: var(--color-required-mark);
+  color: var(--color-ui-notice);
+}
+
+.send-button {
+  padding: .7em 2em;
+  background-color: var(--color-brand);
+  color: var(--color-light-text);
+  font-family: var(--ui-font-family);
+  transition: background-color var(--transition-duration), color var(--transition-duration);
+}
+
+.send-button:hover {
+  background-color: var(--color-link-hover-selected);
+  background-image: none;
+  color: var(--color-text-secondary);
+}
+
+.send-button:focus {
+  outline: var(--color-focus-outline) solid 2px;
 }
 
 .page-footer > p {
