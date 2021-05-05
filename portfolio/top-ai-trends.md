@@ -108,5 +108,3 @@ As AI trends continue to develop, it's increasingly important for business leade
 Fortunately, advances toward making these technologies more accessible to all are bringing down the technical barriers and reducing the learning curve for non-technical leaders.
 
 More and more, it's possible for everyone to leverage the power of AI for business. This is a golden opportunity.
-
-If you'd like expert assistance growing your startup, please contact me. Clients around the world can attest to the difference they've seen in reaching their goals with my help.

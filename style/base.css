@@ -27,6 +27,7 @@ https://github.com/pure-css/pure/blob/master/LICENSE
   --color-focus-outline: #333 ;
   --color-ui-notice: #70152a;
   --color-text-input: #666666;
+  --color-footer: #555;
   --color-hr: #aaa;
   --content-width: 42em;
   --ui-font-family: Verdana, Tahoma, Helvetica, Arial, sans-serif;
@@ -45,6 +46,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+  min-height: 101vh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
 }
 
 h1,
@@ -122,8 +126,7 @@ input[type="email"] {
   color: var(--color-link-hover-selected) !important;
 }
 
-main,
-.page-footer {
+main {
   margin: 0 auto;
   padding: 1em;
   max-width: var(--content-width);
@@ -192,8 +195,30 @@ hr {
   outline: var(--color-focus-outline) solid 2px;
 }
 
+.page-footer {
+  width: 100%;
+  margin-top: 3em;
+  padding: 1em;
+  background-color: var(--color-footer);
+  font-family: var(--ui-font-family);
+}
+
 .page-footer > p {
+  color: var(--color-light-text);
   text-align: center;
+}
+
+.page-footer a,
+.page-footer a:visited {
+  color: var(--color-light-text);
+}
+
+.page-footer a:hover {
+  text-decoration-line: none;
+}
+
+.page-footer a:active {
+  color: var(--color-brand-secondary);
 }
 
 @media screen and (min-width: 48em) {
