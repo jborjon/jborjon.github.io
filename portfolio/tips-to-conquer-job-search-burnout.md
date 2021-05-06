@@ -1,6 +1,12 @@
 ---
 title: 7 Tips to Conquer Job-Search Burnout
 layout: article
+article_type: post
+category: career strategy
+featured_image: man-in-despair.jpg
+featured_image_alt: A man holding his face in despair
+thumbnail: man-in-despair.jpg
+thumbnail_alt: A man holding his face in despair
 ---
 
 You’ve been at it for weeks. Months. Sending application after application, with little to no response. And it’s starting to get to you.

@@ -1,6 +1,12 @@
 ---
 title: ADA Requirements for Wheelchair Ramps and How to Meet Standards
 layout: article
+article_type: post
+category: business regulations
+featured_image: international-symbol-of-accessibility.jpg
+featured_image_alt: The International Symbol of Accessibility
+thumbnail: international-symbol-of-accessibility.jpg
+thumbnail_alt: The International Symbol of Accessibility
 ---
 
 If you're a business owner with a public-facing building, you need to comply with ADA requirements for ramps, but do you know what they are? If you don't, you could be fined <a href="https://www.ada.gov/civil_penalties_2014.htm" target="_blank">up to $75,000</a> just for your _first_ violation.

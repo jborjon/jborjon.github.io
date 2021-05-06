@@ -1,0 +1,17 @@
+{%- capture article_url %}{{ include.article.url }}{% endcapture %}
+{%- capture article_title %}{{ include.article.title }}{% endcapture %}
+{%- capture article_category %}{{ include.article.category }}{% endcapture %}
+{%- capture article_blurb %}{{ include.article.content | strip_html | truncatewords: 18 }}{% endcapture %}
+
+{%- if include.article.thumbnail %}
+  {%- capture article_thumbnail %}{{ include.article.thumbnail }}{% endcapture %}
+{%- else %}
+  {% assign article_thumbnail = "" %}
+{%- endif %}
+{%- if include.article.thumbnail_alt and include.article.thumbnail %}
+  {%- capture article_thumbnail_alt %}{{ include.article.thumbnail_alt }}{% endcapture %}
+{%- else %}
+  {% assign article_thumbnail_alt = "" %}
+{%- endif %}
+
+{% include article-link.html url=article_url title=article_title category=article_category blurb=article_blurb thumbnail=article_thumbnail thumbnail_alt=article_thumbnail_alt %}

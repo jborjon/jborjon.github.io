@@ -1,6 +1,12 @@
 ---
 title: The Story of Joe’s Dough
 layout: article
+article_type: company_story
+category: food and drink
+featured_image: baker-with-bread-boule.jpg
+featured_image_alt: A baker with a rye bread boule
+thumbnail: baker-with-bread-boule.jpg
+thumbnail_alt: A baker with a rye bread boule
 ---
 
 Two thousand and twelve was the year the world didn’t end. What a great thing, because that’s also the year I baked my first sourdough loaf.

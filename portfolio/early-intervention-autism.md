@@ -1,6 +1,12 @@
 ---
 title: The Incredible Benefits of Early Intervention for Children With Autism
 layout: article
+article_type: post
+category: health and wellness
+featured_image: happy-child.jpg
+featured_image_alt: A smiling child
+thumbnail: happy-child.jpg
+thumbnail_alt: A smiling child
 ---
 
 Approximately <a href="https://www.cdc.gov/ncbddd/autism/data.html" target="_blank">one in 54 children</a> have an autism spectrum disorder (ASD), with the number nearly tripling since the year 2000\. That's more than one child for every three classrooms at the average US elementary school.

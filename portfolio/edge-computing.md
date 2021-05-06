@@ -1,6 +1,12 @@
 ---
 title: "Take the Cloud With You: A Guide to Edge Computing"
 layout: article
+article_type: post
+category: technology in business
+featured_image: smartphone-notebook.jpg
+featured_image_alt: A smartphone on a desk with a notebook and a pen
+thumbnail: smartphone-notebook.jpg
+thumbnail_alt: A smartphone on a desk with a notebook and a pen
 ---
 
 Over $43 billion. That's how big <a href="https://www.grandviewresearch.com/press-release/global-edge-computing-market" target="_blank">Grand View Research</a> predicts the edge computing market will be around the world by 2027.
