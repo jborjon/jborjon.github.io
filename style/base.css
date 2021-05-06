@@ -167,9 +167,9 @@ main h2 {
 }
 
 .article-link-category {
-  margin: 0 0 .1em 0;
+  margin: 0 0 .3em 0;
   color: var(--color-brand);
-  font-family: var(--sans-serif-family);
+  font: 80% var(--sans-serif-family);
 }
 
 main ol > li,
@@ -183,6 +183,10 @@ main ul > li {
   font-size: 1.4em;
 }
 
+.article-link-wrapper:hover .article-link-title {
+  text-decoration-line: underline;
+}
+
 .article-link-blurb {
   margin: 0;
   color: var(--color-text-secondary);
@@ -190,7 +194,8 @@ main ul > li {
 }
 
 .thumbnail-container {
-  height: fit-content;
+  block-size: -moz-fit-content;
+  block-size: fit-content;
   background-color: var(--color-brand-light);
 }
 
