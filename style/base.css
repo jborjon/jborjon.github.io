@@ -59,7 +59,6 @@ main p,
 main ul,
 main ol {
   line-height: 1.5;
-  font-size: 1.1em;
 }
 
 main h2 {
@@ -273,6 +272,12 @@ main ul > li {
 }
 
 @media screen and (min-width: 48em) {
+  main p, 
+  main ul,
+  main ol {
+    font-size: 1.1em;
+  }
+
   input[type="text"],
   input[type="email"] {
     width: 42%;
