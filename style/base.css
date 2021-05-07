@@ -219,13 +219,6 @@ main ul > li {
   width: 100%;
 }
 
-hr {
-  max-width: var(--content-width);
-  border: 0;
-  height: 1px;
-  background: var(--color-hr);
-}
-
 .form-required-mark {
   color: var(--color-ui-notice);
 }
