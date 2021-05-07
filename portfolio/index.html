@@ -8,8 +8,8 @@ id: portfolio
 
 <h2 class="portfolio-section-title">Articles</h2>
 
-{%- assign posts = site.pages | where: "article_type", "post" | sort: "category" | reverse %}
-{%- for post in posts %}
+{%- assign posts = site.pages | where: "article_type", "post" | sort: "category" %}
+{%- for post in posts reversed %}
   {% include article-link-logic.html article=post %}
 {%- endfor %}
 

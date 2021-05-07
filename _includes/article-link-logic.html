@@ -3,6 +3,7 @@
 {%- capture article_category %}{{ include.article.category }}{% endcapture %}
 {%- capture article_blurb %}{{ include.article.content | strip_html | truncatewords: 18 }}{% endcapture %}
 
+{% comment %} Only get the thumbnail and its alt text if the article specifies an image {% endcomment %}
 {%- if include.article.thumbnail %}
   {%- capture article_thumbnail %}{{ include.article.thumbnail }}{% endcapture %}
 {%- else %}
@@ -14,4 +15,11 @@
   {% assign article_thumbnail_alt = "" %}
 {%- endif %}
 
-{% include article-link.html url=article_url title=article_title category=article_category blurb=article_blurb thumbnail=article_thumbnail thumbnail_alt=article_thumbnail_alt %}
+{% include article-link.html
+  url=article_url
+  title=article_title
+  category=article_category
+  blurb=article_blurb
+  thumbnail=article_thumbnail
+  thumbnail_alt=article_thumbnail_alt
+%}
