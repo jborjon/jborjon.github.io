@@ -2,7 +2,7 @@
 title: "Take the Cloud With You: A Guide to Edge Computing"
 layout: article
 article_type: post
-category: technology in business
+category: tech in business
 featured_image: smartphone-notebook.jpg
 featured_image_alt: A smartphone on a desk with a notebook and a pen
 thumbnail: smartphone-notebook.jpg

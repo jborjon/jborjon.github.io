@@ -2,7 +2,7 @@
 title: Why Do Companies Invest in Business Intelligence Applications?
 layout: article
 article_type: post
-category: technology in business
+category: tech in business
 featured_image: work-team.jpg
 featured_image_alt: A team at work at the office
 thumbnail: work-team.jpg
