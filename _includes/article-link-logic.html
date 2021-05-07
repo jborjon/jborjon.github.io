@@ -1,25 +1,36 @@
-{%- capture article_url %}{{ include.article.url }}{% endcapture %}
-{%- capture article_title %}{{ include.article.title }}{% endcapture %}
-{%- capture article_category %}{{ include.article.category }}{% endcapture %}
-{%- capture article_blurb %}{{ include.article.content | strip_html | truncatewords: 18 }}{% endcapture %}
+{%- assign article_url = include.article.url %}
+{%- assign article_title = include.article.title %}
+{%- assign article_category = include.article.category %}
+
+{%- assign blurb_num_words = 18 %}
+{%- assign blurb_num_words_shown = 8 %}
+{%- assign blurb = include.article.content | strip_newlines | strip_html | truncatewords: blurb_num_words, "" | split: " " %}
+
+{%- comment %}
+  Separate the blurb into the words that will always appear and the
+  following ones that will show up only if the display is big enough
+{%- endcomment %}
+{%- assign article_blurb_shown = blurb | slice: 0, blurb_num_words_shown | join: " " %}
+{%- assign article_blurb_extra = blurb | slice: blurb_num_words_shown, blurb_num_words - blurb_num_words_shown | join: " " %}
 
 {% comment %} Only get the thumbnail and its alt text if the article specifies an image {% endcomment %}
 {%- if include.article.thumbnail %}
-  {%- capture article_thumbnail %}{{ include.article.thumbnail }}{% endcapture %}
+  {%- assign article_thumbnail = include.article.thumbnail %}
 {%- else %}
-  {% assign article_thumbnail = "" %}
+  {%- assign article_thumbnail = "" %}
 {%- endif %}
 {%- if include.article.thumbnail_alt and include.article.thumbnail %}
-  {%- capture article_thumbnail_alt %}{{ include.article.thumbnail_alt }}{% endcapture %}
+  {%- assign article_thumbnail_alt = include.article.thumbnail_alt %}
 {%- else %}
-  {% assign article_thumbnail_alt = "" %}
+  {%- assign article_thumbnail_alt = "" %}
 {%- endif %}
 
-{% include article-link.html
+{%- include article-link.html
   url=article_url
   title=article_title
   category=article_category
-  blurb=article_blurb
+  blurb_shown=article_blurb_shown
+  blurb_extra=article_blurb_extra
   thumbnail=article_thumbnail
   thumbnail_alt=article_thumbnail_alt
 %}
