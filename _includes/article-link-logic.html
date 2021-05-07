@@ -1,4 +1,4 @@
-{%- assign article_url = include.article.url %}
+{%- assign article_url = include.article.url | remove: ".html" %}
 {%- assign article_title = include.article.title %}
 {%- assign article_category = include.article.category %}
 
