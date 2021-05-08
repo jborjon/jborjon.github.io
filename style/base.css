@@ -51,7 +51,7 @@ body {
 
 main {
   margin: 0 auto;
-  padding: 1em 1.5em;
+  padding: 1em 1.3rem;
   max-width: var(--content-width);
 }
 
@@ -103,12 +103,16 @@ input[type="email"] {
   margin: 0 auto;
 }
 
+.main-nav-menu > ul {
+  padding-left: .36rem;
+}
+
 .site-heading-title {
   margin: 0;
 }
 
 .site-heading-link {
-  padding: .22em .5em;
+  padding: .36rem 1.3rem;
   color: var(--color-light-text);
   font: 1em "Playfair Display", Georgia, Garamond, Times, serif;
   font-kerning: normal;
