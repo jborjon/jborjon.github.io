@@ -13,7 +13,7 @@ In 2019, market intelligence firm IDC projected that global spending on AI syste
 
 That was before the pandemic disrupted the way the world does business and sped up the adoption of AI technologies everywhere. The AI ecosystem is progressing at an unprecedented pace.
 
-That's why every entrepreneur who wants to stay ahead of the competition should stay up-to-date with AI trends. I will mention 10 trends to keep an eye on through 2021 and beyond.
+That’s why every entrepreneur who wants to stay ahead of the competition should stay up-to-date with AI trends. I will mention 10 trends to keep an eye on through 2021 and beyond.
 
 ## Factors That Have Affected AI Trends
 
@@ -21,7 +21,7 @@ COVID impact on AI has been the most recent disruptor. And, just as no area of b
 
 With so many people working remotely, companies have started to look for ways to maintain some normalcy in their daily operations. AI has been instrumental in achieving that goal.
 
-And it's not only operations that have benefited from a pandemic-driven reliance on AI. According to <a href="https://www.everestgrp.com/2020-12-10-top-artificial-intelligence-ai-trends-in-2021-in-the-news-.html" target="_blank">Alisha Mittal</a>, of the Everest Group, organizations have also leveraged it to improve the stakeholder experience.
+And it’s not only operations that have benefited from a pandemic-driven reliance on AI. According to <a href="https://www.everestgrp.com/2020-12-10-top-artificial-intelligence-ai-trends-in-2021-in-the-news-.html" target="_blank">Alisha Mittal</a>, of the Everest Group, organizations have also leveraged it to improve the stakeholder experience.
 
 Combined with the preexisting drive for innovation and AI adoption, these factors have given tremendous importance to the following 10 AI trends.
 
@@ -65,7 +65,7 @@ Managing and monitoring cloud resources generates enormous amounts of data. Arti
 
 The Artificial Intelligence of Things, or AIoT, is a relatively new concept. It comes from the combination of two established technologies: AI and the <a href="https://www.wired.co.uk/article/internet-of-things-what-is-explained-iot" target="_blank">Internet of Things</a>.
 
-This trend uses the data generated from people's usage of IoT devices to automate business processes without human intervention.
+This trend uses the data generated from people’s usage of IoT devices to automate business processes without human intervention.
 
 Giants such as Google and Microsoft are already starting to implement the technologies involved in this concept.
 
@@ -75,7 +75,7 @@ The emergence of no-code AI platforms is a boon for companies without advanced d
 
 Thanks to automated solutions, teams without those skills are starting to gain access to powerful data-enabled capabilities.
 
-There is still work ahead in developing full-fledged automation platforms that don't require any custom code. We're already seeing the advantages of that method, though.
+There is still work ahead in developing full-fledged automation platforms that don’t require any custom code. We’re already seeing the advantages of that method, though.
 
 ## 8. Increased Innovation Through AI-Powered Automation
 
@@ -91,26 +91,26 @@ As this focus expands from early adopters to businesses at large, innovation wil
 
 Siri, Alexa, and other systems that rely on natural language processing (NLP) and automated speech recognition (ASR) keep getting smarter.
 
-That's not going to stop. NLP and ASR will keep improving and streamlining the customer experience. One day, they may be able to decode a sentence the way a human would and offer more natural, human responses.
+That’s not going to stop. NLP and ASR will keep improving and streamlining the customer experience. One day, they may be able to decode a sentence the way a human would and offer more natural, human responses.
 
 ## 10. Responsible and Ethical AI
 
-Rapid technological progress often pushes against the boundaries of ethical conventions. That doesn't mean AI is inherently unethical, but it does mean that we need to have a dialogue about the potential implications of its use.
+Rapid technological progress often pushes against the boundaries of ethical conventions. That doesn’t mean AI is inherently unethical, but it does mean that we need to have a dialogue about the potential implications of its use.
 
 The challenge is incorporating unbiased diversity, representation, and relevance in the problems we recruit AI to solve.
 
-After all, for all its sophistication, AI is still a product of the human mind, run by computers that can't make moral judgments. It's not yet capable of gaining ethical awareness and self-correcting.
+After all, for all its sophistication, AI is still a product of the human mind, run by computers that can’t make moral judgments. It’s not yet capable of gaining ethical awareness and self-correcting.
 
 Terms such as responsible AI and model interpretability are showing up more often outside of academic circles.
 
-That's an important step in ensuring fairness for everyone whose lives are affected by AI technologies.
+That’s an important step in ensuring fairness for everyone whose lives are affected by AI technologies.
 
-And, in today's world, that's everybody.
+And, in today’s world, that’s everybody.
 
 ## Accessibility for Everyone
 
-As AI trends continue to develop, it's increasingly important for business leaders to remain aware of how the rapid changes in technology may impact the industry.
+As AI trends continue to develop, it’s increasingly important for business leaders to remain aware of how the rapid changes in technology may impact the industry.
 
 Fortunately, advances toward making these technologies more accessible to all are bringing down the technical barriers and reducing the learning curve for non-technical leaders.
 
-More and more, it's possible for everyone to leverage the power of AI for business. This is a golden opportunity.
+More and more, it’s possible for everyone to leverage the power of AI for business. This is a golden opportunity.

@@ -23,17 +23,17 @@ Organizations analyze the data they collect to identify any trends. They look at
 
 ## Who Uses BI?
 
-Business intelligence data can benefit any company that's in business.
+Business intelligence data can benefit any company that’s in business.
 
 More and more industries, from healthcare to financial services, are enhancing their decision-making through BI.
 
-They're applying their practices to all areas of business, including HR, finance, sales, marketing, and executive leadership.
+They’re applying their practices to all areas of business, including HR, finance, sales, marketing, and executive leadership.
 
 ## What Does BI Enable Businesses to Do?
 
 A common way to visualize and interact with data is through a business analytics dashboard. Dashboards require almost no technical expertise to interpret, but the visual impact they can make could be far-reaching.
 
-The alternative would be to have a business intelligence analyst or another highly technical professional handle the data alone, but that's not the most practical approach.
+The alternative would be to have a business intelligence analyst or another highly technical professional handle the data alone, but that’s not the most practical approach.
 
 Instead, BI aims to be accessible to anyone who needs to make decisions, regardless of technical expertise.
 
@@ -53,11 +53,11 @@ Having data available to help you make business decisions can make those decisio
 
 ### Improve Process Visibility to Make Real-Time Decisions
 
-With a few clicks, you can get an idea of what's happening at all levels of your business. If an issue needs to be addressed, you can identify and take care of it right away.
+With a few clicks, you can get an idea of what’s happening at all levels of your business. If an issue needs to be addressed, you can identify and take care of it right away.
 
 ### Maintain Accountability
 
-It's difficult to reach business goals if they are fuzzy or if no one's accountable for them.
+It’s difficult to reach business goals if they are fuzzy or if no one’s accountable for them.
 
 BI can lead to goal clarity, which allows you to assign accountability and follow up at predetermined times.
 

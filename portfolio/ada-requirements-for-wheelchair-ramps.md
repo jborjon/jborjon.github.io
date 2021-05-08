@@ -9,9 +9,9 @@ thumbnail: international-symbol-of-accessibility.jpg
 thumbnail_alt: The International Symbol of Accessibility
 ---
 
-If you're a business owner with a public-facing building, you need to comply with ADA requirements for ramps, but do you know what they are? If you don't, you could be fined <a href="https://www.ada.gov/civil_penalties_2014.htm" target="_blank">up to $75,000</a> just for your _first_ violation.
+If you’re a business owner with a public-facing building, you need to comply with ADA requirements for ramps, but do you know what they are? If you don’t, you could be fined <a href="https://www.ada.gov/civil_penalties_2014.htm" target="_blank">up to $75,000</a> just for your _first_ violation.
 
-But let's be frank: It's not only about avoiding fines and lawsuits. It's about being inclusive to everyone you do business with, regardless of their physical limitations.
+But let’s be frank: It’s not only about avoiding fines and lawsuits. It’s about being inclusive to everyone you do business with, regardless of their physical limitations.
 
 If you need to update your building to meet wheelchair ramp requirements, this article is for you.
 
@@ -55,10 +55,10 @@ ADA ramp requirements encompass the size, slope, and surface characteristics of 
 
 ### Materials
 
-ADA federal law doesn't specify any materials as long as the ramp complies with all the above regulations. Common materials used are concrete, wood, steel, and aluminum.
+ADA federal law doesn’t specify any materials as long as the ramp complies with all the above regulations. Common materials used are concrete, wood, steel, and aluminum.
 
 If you need help choosing materials, or with any part of the construction process, look for someone like the people at Frontier Welding & Fabrication LLC, who say they can work with a variety of materials.
 
 ## Accessibility for All
 
-Now that you're familiar with ADA requirements for wheelchair ramps, you can be confident that you'll be in compliance with regulations while making your building accessible to everyone.
+Now that you’re familiar with ADA requirements for wheelchair ramps, you can be confident that you’ll be in compliance with regulations while making your building accessible to everyone.
