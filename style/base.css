@@ -174,7 +174,7 @@ input[type="email"] {
 .article-link-category {
   margin: 0 0 .3em 0;
   color: var(--color-brand);
-  font: 80% var(--sans-serif-family);
+  font: .8em var(--sans-serif-family);
 }
 
 main ol > li,
