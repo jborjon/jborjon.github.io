@@ -8,7 +8,7 @@ layout: default
     <h1 class="article-title">{{ page.title }}</h1>
   
     {%- if page.article_type == "post" %}
-    <p class="word-count">Word count: {{ content | number_of_words }}</p>
+    <p class="word-count">Word count: {{ content | strip_html | number_of_words }}</p>
     {%- endif %}
 
     <img class="featured-image" src="/images/{{ page.featured_image }}" alt="{{ page.featured_image_alt }}">

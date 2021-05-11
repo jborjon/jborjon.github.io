@@ -88,11 +88,10 @@ If you’re serious about wanting to lower your blood pressure, remember that co
 If you have any symptoms that you suspect could be serious, visit your healthcare provider right away.
 
 ## Sources
-{%- comment %}
+
 Chrysant, Steven. “The Impact of Coffee Consumption on Blood Pressure, Cardiovascular Disease and Diabetes Mellitus.” _Taylor & Francis_, 3 Feb. 2017, [www.tandfonline.com/doi/abs/10.1080/14779072.2017.1287563?journalCode=ierk20&](https://www.tandfonline.com/doi/abs/10.1080/14779072.2017.1287563?journalCode=ierk20&){:target="_blank"}.
 
 Cornelissen, Veronique A., PhD, and Neil A. Smart PhD. “Exercise Training for Blood Pressure: A Systematic Review and Meta‐analysis.” _PubMed Central (PMC)_, 1 Feb. 2013, [www.ncbi.nlm.nih.gov/pmc/articles/PMC3603230](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3603230){:target="_blank"}.
-{%-endcomment %}
 
 Earnest, Conrad. “Evaluation of a Voluntary Work Site Weight Loss Program on Hypertension.” _PubMed_, Dec. 2016, [pubmed.ncbi.nlm.nih.gov/27930480](https://pubmed.ncbi.nlm.nih.gov/27930480){:target="_blank"}.
 
