@@ -30,7 +30,7 @@ https://github.com/pure-css/pure/blob/master/LICENSE
   --content-width: 45em;
   --sans-serif-family: Verdana, Tahoma, Helvetica, Arial, sans-serif;
   --transition-duration: .15s;
-  --color-code-background: #f8f8f8;
+  --color-code-background: #f6f6f6;
 }
 
 * {
@@ -86,7 +86,11 @@ h6 {
 
 pre {
   max-width: var(--content-width);
-  overflow-x: auto;
+  overflow: auto;
+}
+
+code {
+  padding: .1em;
   background-color: var(--color-code-background);
 }
 

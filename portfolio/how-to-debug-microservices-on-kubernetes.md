@@ -56,7 +56,7 @@ You can also use the --swap-deployment option to spawn a shell and run a service
 So, you would run:
 
 ```shell
-  telepresence --swap-deployment $DEPLOYMENT_NAME
+telepresence --swap-deployment $DEPLOYMENT_NAME
 ```
 
 Replace `$DEPLOYMENT_NAME` with the name of your existing deployment,
