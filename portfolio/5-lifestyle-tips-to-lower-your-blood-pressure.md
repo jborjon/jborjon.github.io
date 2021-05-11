@@ -33,7 +33,7 @@ Even walking for 150 minutes a week can help lower your blood pressure. That’s
 
 Whatever you choose to do, stick to it. Switch it up if it helps you stay interested.
 
-## 2. Tune-up Your Diet
+## 2. Tune up Your Diet
 
 Your choice of foods is another big factor in maintaining healthy blood pressure levels.
 
@@ -87,7 +87,7 @@ If you’re serious about wanting to lower your blood pressure, remember that co
 
 If you have any symptoms that you suspect could be serious, visit your healthcare provider right away.
 
-## Citations
+## Sources
 
 Chrysant, Steven. “The Impact of Coffee Consumption on Blood Pressure, Cardiovascular Disease and Diabetes Mellitus.” _Taylor & Francis_, 3 Feb. 2017, [www.tandfonline.com/doi/abs/10.1080/14779072.2017.1287563?journalCode=ierk20&](https://www.tandfonline.com/doi/abs/10.1080/14779072.2017.1287563?journalCode=ierk20&){:target="_blank"}.
 
