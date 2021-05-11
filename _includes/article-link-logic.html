@@ -2,16 +2,7 @@
 {%- assign article_title = include.article.title %}
 {%- assign article_category = include.article.category %}
 
-{%- assign blurb_num_words = 18 %}
-{%- assign blurb_num_words_shown = 8 %}
-{%- assign blurb = include.article.content | strip_newlines | strip_html | truncatewords: blurb_num_words, "" | split: " " %}
-
-{%- comment %}
-  Separate the blurb into the words that will always appear and the
-  following ones that will show up only if the display is big enough
-{%- endcomment %}
-{%- assign article_blurb_shown = blurb | slice: 0, blurb_num_words_shown | join: " " %}
-{%- assign article_blurb_extra = blurb | slice: blurb_num_words_shown, blurb_num_words - blurb_num_words_shown | join: " " %}
+{%- assign article_blurb = include.article.content | markdownify | strip_html | truncatewords: 40, "" %}
 
 {% comment %} Only get the thumbnail and its alt text if the article specifies an image {% endcomment %}
 {%- if include.article.thumbnail %}
@@ -29,8 +20,8 @@
   url=article_url
   title=article_title
   category=article_category
-  blurb_shown=article_blurb_shown
-  blurb_extra=article_blurb_extra
+  blurb=article_blurb
   thumbnail=article_thumbnail
   thumbnail_alt=article_thumbnail_alt
+  is_lazy_loaded=include.is_lazy_loaded
 %}

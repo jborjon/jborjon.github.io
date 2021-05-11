@@ -3,10 +3,10 @@
     <div class="article-link-text">
       <p class="article-link-category">{{ include.category }}</p>
       <h3 class="article-link-title">{{ include.title }}</h3>
-      <p class="article-link-blurb">{{ include.blurb_shown }}<span class="blurb-extra"> {{ include.blurb_extra }}</span>...</p>
+      <p class="article-link-blurb">{{ include.blurb }}</p>
     </div>
     <div class="thumbnail-container">
-      <img class="thumbnail-image" width="200" loading="lazy" src="/images/{{ include.thumbnail }}" alt="{{ include.thumbnail_alt }}">
+      <img class="thumbnail-image" width="200" {%- if include.is_lazy_loaded %} loading="lazy" {%- endif %} src="/images/{{ include.thumbnail }}" alt="{{ include.thumbnail_alt }}">
     </div>
   </section>
 </a>

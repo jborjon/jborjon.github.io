@@ -9,11 +9,11 @@ thumbnail: happy-child.jpg
 thumbnail_alt: A smiling child
 ---
 
-Approximately <a href="https://www.cdc.gov/ncbddd/autism/data.html" target="_blank">one in 54 children</a> have an autism spectrum disorder (ASD), with the number nearly tripling since the year 2000\. That’s more than one child for every three classrooms at the average US elementary school.
+Approximately [one in 54 children](https://www.cdc.gov/ncbddd/autism/data.html){:target="_blank"} have an autism spectrum disorder (ASD), with the number nearly tripling since the year 2000. That’s more than one child for every three classrooms at the average US elementary school.
 
 On average, these children will receive a diagnosis at age 6\. And, while there’s much you can still do to help treat the child at that age, the earlier the treatment starts, the better.
 
-How early? As early as the <a href="https://www.brainandlife.org/articles/early-intervention-in-autism/" target="_blank">one-year-old mark</a>, in some cases.
+How early? As early as the [one-year-old mark](https://www.brainandlife.org/articles/early-intervention-in-autism/){:target="_blank"}, in some cases.
 
 The benefits of early intervention can change your life. Let’s dive into them.
 
@@ -35,7 +35,7 @@ Not every child with ASD will have the same outcome, but the odds of improvement
 
 ## What Is Early Intervention?
 
-Early intervention is any treatment that happens <a href="https://www.nichd.nih.gov/health/topics/autism/conditioninfo/treatments/early-intervention#:~:text=Early%20interventions%20occur%20at%20or,effective%20in%20the%20longer%20term." target="_blank">at or before preschool age</a>, from birth to about three years of age, when the brain is still under construction.
+Early intervention is any treatment that happens [at or before preschool age](https://www.nichd.nih.gov/health/topics/autism/conditioninfo/treatments/early-intervention#:~:text=Early%20interventions%20occur%20at%20or,effective%20in%20the%20longer%20term.){:target="_blank"}, from birth to about three years of age, when the brain is still under construction.
 
 At this stage, brain structures are still highly plastic, meaning they can adapt and develop much more easily than at any time later in life. That’s why, in general, the earlier the treatment, the better the outcome.
 
@@ -55,7 +55,7 @@ Some children exhibit signs of ASD as early as six months old, others later, but
 
 When you hear the term "autism spectrum," you may picture something like the visible light spectrum: A linear progression of color with red on one end, violet on the other, and every other hue in between.
 
-But the autism spectrum is a <a href="https://www.psycom.net/autism-single-spectrum-myth" target="_blank">three-dimensional spectrum</a> with many complexities that can’t be reduced to a linear model.
+But the autism spectrum is a [three-dimensional spectrum](https://www.psycom.net/autism-single-spectrum-myth){:target="_blank"} with many complexities that can’t be reduced to a linear model.
 
 A child with ASD isn’t simply closer to one end of the spectrum or the other; she or he is at several different spots inside a messy pyramid with a labyrinth of cognitive and behavioral areas.
 

@@ -4,8 +4,9 @@ layout: default
 
 <article>
   <header>
+    <p class="article-category">{{ page.category }}</p>
     <h1 class="article-title">{{ page.title }}</h1>
-    
+  
     {%- if page.article_type == "post" %}
     <p class="word-count">Word count: {{ content | number_of_words }}</p>
     {%- endif %}

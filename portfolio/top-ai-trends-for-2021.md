@@ -4,12 +4,12 @@ layout: article
 article_type: post
 category: tech in business
 featured_image: matrix-screen.jpg
-featured_image_alt: A screenshot from a screen in the style of The Matrix
+featured_image_alt: A screenshot from a screen in the style of the film The Matrix
 thumbnail: matrix-screen.jpg
-thumbnail_alt: A screenshot from a screen in the style of The Matrix
+thumbnail_alt: A screenshot from a screen in the style of the film The Matrix
 ---
 
-In 2019, market intelligence firm IDC projected that global spending on AI systems would grow by more than 2.5 times by 2023, from <a href="https://www.idc.com/getdoc.jsp?containerId=prUS45481219#:~:text=According%20to%20the%20recently%20updated,will%20be%20spent%20in%202019." target="_blank">$38 billion</a> to $98 billion.
+In 2019, market intelligence firm IDC projected that global spending on AI systems would grow by more than 2.5 times by 2023, from [$38 billion](https://www.idc.com/getdoc.jsp?containerId=prUS45481219#:~:text=According%20to%20the%20recently%20updated,will%20be%20spent%20in%202019.){:target="_blank"} to $98 billion.
 
 That was before the pandemic disrupted the way the world does business and sped up the adoption of AI technologies everywhere. The AI ecosystem is progressing at an unprecedented pace.
 
@@ -21,7 +21,7 @@ COVID impact on AI has been the most recent disruptor. And, just as no area of b
 
 With so many people working remotely, companies have started to look for ways to maintain some normalcy in their daily operations. AI has been instrumental in achieving that goal.
 
-And it’s not only operations that have benefited from a pandemic-driven reliance on AI. According to <a href="https://www.everestgrp.com/2020-12-10-top-artificial-intelligence-ai-trends-in-2021-in-the-news-.html" target="_blank">Alisha Mittal</a>, of the Everest Group, organizations have also leveraged it to improve the stakeholder experience.
+And it’s not only operations that have benefited from a pandemic-driven reliance on AI. According to [Alisha Mittal](https://www.everestgrp.com/2020-12-10-top-artificial-intelligence-ai-trends-in-2021-in-the-news-.html){:target="_blank"}, of the Everest Group, organizations have also leveraged it to improve the stakeholder experience.
 
 Combined with the preexisting drive for innovation and AI adoption, these factors have given tremendous importance to the following 10 AI trends.
 
@@ -45,7 +45,7 @@ This will reduce the need to have data scientists on staff, which will help reli
 
 The pandemic showed businesses and consumers how fragile supply chains can be. There is an urgent need to transform operations and make them more resilient.
 
-As the world transitions into <a href="https://www.i-scoop.eu/industry-4-0/" target="_blank">Industry 4.0</a>, AI can uncover hidden patterns in the data and help manufacturers make smart decisions in real time.
+As the world transitions into [Industry 4.0](https://www.i-scoop.eu/industry-4-0/){:target="_blank"}, AI can uncover hidden patterns in the data and help manufacturers make smart decisions in real time.
 
 There will be a pattern of shortage reductions and quality increases through advances in disruption prediction, robotic process automation, and real-time quality monitoring.
 
@@ -63,7 +63,7 @@ Managing and monitoring cloud resources generates enormous amounts of data. Arti
 
 ## 6. Growth of a Newcomer: AIoT
 
-The Artificial Intelligence of Things, or AIoT, is a relatively new concept. It comes from the combination of two established technologies: AI and the <a href="https://www.wired.co.uk/article/internet-of-things-what-is-explained-iot" target="_blank">Internet of Things</a>.
+The Artificial Intelligence of Things, or AIoT, is a relatively new concept. It comes from the combination of two established technologies: AI and the [Internet of Things](https://www.wired.co.uk/article/internet-of-things-what-is-explained-iot){:target="_blank"}.
 
 This trend uses the data generated from people’s usage of IoT devices to automate business processes without human intervention.
 
