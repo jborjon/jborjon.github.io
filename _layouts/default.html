@@ -72,6 +72,9 @@ layout: compress
       }
     </style>
     <link rel="stylesheet" href="/style/base.css">
+    {%- if page.layout == "article" %}
+    <link rel="stylesheet" href="/style/code-highlight.css">
+    {% endif -%}
 
     <script defer src="/scripts/copy-year.min.js"></script>
     {%- if page.id == "contact" %}

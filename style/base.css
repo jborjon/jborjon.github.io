@@ -30,6 +30,7 @@ https://github.com/pure-css/pure/blob/master/LICENSE
   --content-width: 45em;
   --sans-serif-family: Verdana, Tahoma, Helvetica, Arial, sans-serif;
   --transition-duration: .15s;
+  --color-code-background: #f8f8f8;
 }
 
 * {
@@ -81,6 +82,12 @@ h5,
 h6 {
   font-family: Oswald, Verdana, Tahoma, Helvetica, Arial, sans-serif;
   font-weight: normal;
+}
+
+pre {
+  max-width: var(--content-width);
+  overflow-x: auto;
+  background-color: var(--color-code-background);
 }
 
 textarea {
@@ -292,7 +299,8 @@ main ul > li {
 @media screen and (min-width: 48em) {
   main p, 
   main ul,
-  main ol {
+  main ol,
+  main pre {
     font-size: 1.1em;
   }
 
