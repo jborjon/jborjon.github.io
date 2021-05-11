@@ -1,5 +1,5 @@
 ---
-title: What Is the Intelligent Proxy and How Can It Fight Against Malicious Attacks?
+title: What Is the Intelligent Proxy and How Can It Stop Malicious Attacks?
 layout: article
 article_type: post
 category: tech in business

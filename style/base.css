@@ -86,12 +86,6 @@ h6 {
 
 pre {
   max-width: var(--content-width);
-  overflow: auto;
-}
-
-code {
-  padding: .1em;
-  background-color: var(--color-code-background);
 }
 
 textarea {
