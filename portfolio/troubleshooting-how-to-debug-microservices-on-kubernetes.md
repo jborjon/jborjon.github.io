@@ -51,7 +51,7 @@ To get started, make sure that:
 
 Once you take care of those steps, it’s time to get a shell. Open a terminal and run `telepresence` (no arguments). Congratulations! You have a Telepresence shell running locally.
 
-You can also use the --swap-deployment option to spawn a shell and run a service locally while connecting to the remote cluster.
+You can also use the `--swap-deployment` option to spawn a shell and run a service locally while connecting to the remote cluster.
 
 So, you would run:
 
