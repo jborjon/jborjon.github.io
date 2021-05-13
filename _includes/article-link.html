@@ -1,8 +1,8 @@
 <a class="article-link-wrapper" href="{{ include.url }}" {%- if include.new_tab %} target="_blank" {%- endif %}>
   <section class="article-link">
     <div class="article-link-text">
-      <p class="article-link-category">{{ include.category }}</p>
-      <h3 class="article-link-title">{{ include.title }}</h3>
+      <p class="article-link-category">{{ include.category | smartify }}</p>
+      <h3 class="article-link-title">{{ include.title | smartify }}</h3>
       <p class="article-link-blurb {%- if include.no_clamp != true %} blurb-clamped {%- endif %}">{{ include.blurb }}</p>
     </div>
     <div class="thumbnail-container">
