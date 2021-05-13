@@ -1,0 +1,33 @@
+main p, 
+main ul,
+main ol,
+main pre {
+  font-size: 1.1em;
+}
+
+input[type="text"],
+input[type="email"] {
+  width: 42%;
+}
+
+.page-header {
+  height: 4em;
+}
+
+.main-nav-menu {
+  max-width: 72rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.article-title {
+  margin-top: .3em;
+  font-size: 3em;
+}
+
+.article-category,
+.article-title,
+.word-count {
+  text-align: center;
+}

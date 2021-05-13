@@ -89,14 +89,14 @@ If you have any symptoms that you suspect could be serious, visit your healthcar
 
 ## Sources
 
-Chrysant, Steven. “The Impact of Coffee Consumption on Blood Pressure, Cardiovascular Disease and Diabetes Mellitus.” _Taylor & Francis_, 3 Feb. 2017, [www.tandfonline.com/doi/abs/10.1080/14779072.2017.1287563?journalCode=ierk20&](https://www.tandfonline.com/doi/abs/10.1080/14779072.2017.1287563?journalCode=ierk20&){:target="_blank"}.
+Chrysant, Steven. “The Impact of Coffee Consumption on Blood Pressure, Cardiovascular Disease and Diabetes Mellitus.” _Taylor & Francis_, 3 Feb. 2017, <https://www.tandfonline.com/doi/abs/10.1080/14779072.2017.1287563?journalCode=ierk20&>{:target="_blank"}.
 
-Cornelissen, Veronique A., PhD, and Neil A. Smart PhD. “Exercise Training for Blood Pressure: A Systematic Review and Meta‐analysis.” _PubMed Central (PMC)_, 1 Feb. 2013, [www.ncbi.nlm.nih.gov/pmc/articles/PMC3603230](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3603230){:target="_blank"}.
+Cornelissen, Veronique A., PhD, and Neil A. Smart PhD. “Exercise Training for Blood Pressure: A Systematic Review and Meta‐analysis.” _PubMed Central (PMC)_, 1 Feb. 2013, <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3603230>{:target="_blank"}.
 
-Earnest, Conrad. “Evaluation of a Voluntary Work Site Weight Loss Program on Hypertension.” _PubMed_, Dec. 2016, [pubmed.ncbi.nlm.nih.gov/27930480](https://pubmed.ncbi.nlm.nih.gov/27930480){:target="_blank"}.
+Earnest, Conrad. “Evaluation of a Voluntary Work Site Weight Loss Program on Hypertension.” _PubMed_, Dec. 2016, <https://pubmed.ncbi.nlm.nih.gov/27930480>{:target="_blank"}.
 
-“Facts About Hypertension.” _Centers for Disease Control and Prevention_, 8 Sept. 2020, [www.cdc.gov/bloodpressure/facts.htm](https://www.cdc.gov/bloodpressure/facts.htm){:target="_blank"}.
+“Facts About Hypertension.” _Centers for Disease Control and Prevention_, 8 Sept. 2020, <https://www.cdc.gov/bloodpressure/facts.htm>{:target="_blank"}.
 
-“High Blood Pressure Symptoms, Causes, and Problems.” _Centers for Disease Control and Prevention_, 19 May 2020, [www.cdc.gov/bloodpressure/about.htm](https://www.cdc.gov/bloodpressure/about.htm){:target="_blank"}.
+“High Blood Pressure Symptoms, Causes, and Problems.” _Centers for Disease Control and Prevention_, 19 May 2020, <https://www.cdc.gov/bloodpressure/about.htm>{:target="_blank"}.
 
-Modesti, Pietro Amedeo. “Psychological Predictors of the Antihypertensive Effects of Music-Guided Slow Breathing.” _PubMed_, May 2010, [pubmed.ncbi.nlm.nih.gov/20160655](https://pubmed.ncbi.nlm.nih.gov/20160655){:target="_blank"}.
+Modesti, Pietro Amedeo. “Psychological Predictors of the Antihypertensive Effects of Music-Guided Slow Breathing.” _PubMed_, May 2010, <https://pubmed.ncbi.nlm.nih.gov/20160655>{:target="_blank"}.
