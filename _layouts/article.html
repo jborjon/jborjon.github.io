@@ -11,7 +11,9 @@ layout: default
     <p class="word-count">Word count: {{ content | strip_html | number_of_words }}</p>
     {%- endif %}
 
+    {%- if page.featured_image %}
     <img class="featured-image" src="/images/{{ page.featured_image }}" alt="{{ page.featured_image_alt }}">
+    {%- endif %}
   </header>
 
   {{ content -}}
