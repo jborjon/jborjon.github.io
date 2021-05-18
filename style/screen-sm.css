@@ -7,3 +7,12 @@
   width: 162px;
   height: 100px;
 }
+
+.thumbnail-image {
+  width: 200px;
+  height: 124px;
+}
+
+.blurb-clamped {
+  -webkit-line-clamp: 2;
+}
