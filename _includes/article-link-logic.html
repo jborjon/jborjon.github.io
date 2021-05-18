@@ -2,7 +2,7 @@
 {%- assign article_title = include.article.title %}
 {%- assign article_category = include.article.category %}
 
-{%- assign article_blurb = include.article.content | markdownify | strip_html | truncatewords: 40, "" %}
+{%- assign article_blurb = include.article.content | markdownify | strip_html | truncatewords: 26, "" %}
 
 {% comment %} Only get the thumbnail and its alt text if the article specifies an image {% endcomment %}
 {%- if include.article.thumbnail %}
