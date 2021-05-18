@@ -1,5 +1,5 @@
 ---
-title: How to Write Marketing Blogs Your Clients Will Actually Read
+title: How to Write Marketing Blog Posts Your Clients Will Actually Read
 layout: article
 article_type: post
 category: marketing
