@@ -23,14 +23,14 @@ id: portfolio
 
 {%- assign company_stories = site.pages | where: "article_type", "company_story" | sort: "category" %}
 {%- for story in company_stories %}
-  {% include article-link-logic.html article=story %}
+  {% include article-link-logic.html article=story is_lazy_loaded=true %}
 {%- endfor %}
 
 <h2 class="portfolio-section-title">Product Descriptions</h2>
 
 {%- assign product_descriptions = site.pages | where: "article_type", "product_description" | sort: "category" %}
 {%- for description in product_descriptions %}
-  {% include article-link-logic.html article=description %}
+  {% include article-link-logic.html article=description is_lazy_loaded=true %}
 {%- endfor %}
 
 <h2 class="portfolio-section-title">Technical Writing</h2>
@@ -53,7 +53,7 @@ id: portfolio
   url="Linked_Joseph-Borjon.pdf"
   title="Linked (PDF)"
   category="screenplay"
-  blurb="A help-averse woman suddenly develops invisible weighted gym chains around her shoulders, and they refuse to come off her despite her darndest efforts."
+  blurb="A help-averse woman suddenly develops permanent, invisible weighted gym chains around her shoulders, and they refuse to come off despite her darndest efforts."
   thumbnail="screenplay-screenshot.png"
   thumbnail_alt="A portion of a screenplay title page"
   new_tab=true
