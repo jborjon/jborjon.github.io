@@ -6,7 +6,7 @@
       <p class="article-link-blurb {%- if include.no_clamp != true %} blurb-clamped {%- endif %}">{{ include.blurb }}</p>
     </div>
     <div class="thumbnail-container">
-      <img class="thumbnail-image" width="200" {%- if include.is_lazy_loaded %} loading="lazy" {%- endif %} src="/images/{{ include.thumbnail }}" alt="{{ include.thumbnail_alt }}">
+      <img class="thumbnail-image" {%- if include.is_lazy_loaded %} loading="lazy" {%- endif %} src="/images/{{ include.thumbnail }}" alt="{{ include.thumbnail_alt }}">
       <!--<img class="thumbnail-image" {%- if include.is_lazy_loaded %} loading="lazy" {%- endif %} srcset="/images/bread-boule-sliced-thumbnail.jpg 1x, /images/bread-boule-sliced-thumbnail@2x.jpg 2x" src="/images/bread-boule-sliced-thumbnail.jpg" alt="{{ include.thumbnail_alt }}">-->
     </div>
   </section>

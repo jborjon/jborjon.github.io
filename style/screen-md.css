@@ -31,3 +31,12 @@ input[type="email"] {
 .word-count {
   text-align: center;
 }
+
+.thumbnail-image {
+  width: 200px;
+  height: 124px;
+}
+
+.blurb-clamped {
+  -webkit-line-clamp: 2;
+}

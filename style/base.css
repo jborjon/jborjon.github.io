@@ -239,7 +239,7 @@ main ul > li {
 .article-link-title {
   margin: 0 0 .4em 0;
   color: var(--color-text-primary);
-  font-size: 1.4em;
+  font-size: 1.3em;
 }
 
 .article-link-wrapper:hover .article-link-title {
@@ -252,11 +252,9 @@ main ul > li {
   font-size: .95em;
 }
 
+.article-link-blurb,
 .blurb-clamped {
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
+  display: none;
 }
 
 .thumbnail-container {
@@ -266,7 +264,10 @@ main ul > li {
 }
 
 .thumbnail-image {
+  width: 100px;
+  height: 100px;
   vertical-align: top;
+  object-fit: cover;
 }
 
 .article-category {
