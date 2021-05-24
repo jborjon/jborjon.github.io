@@ -17,7 +17,7 @@ What are some of the best techniques for debugging microservices with Kubernetes
 
 ## The Challenge
 
-As if the inherent complexity of software weren’t enough, a [microservices architecture](https://microservices.io/patterns/microservices.html){:target="_blank"} adds a whole new layer of complexity.
+As if the inherent complexity of software weren’t enough, a [microservices architecture](https://microservices.io/patterns/microservices.html){:target="_blank" rel="noopener"} adds a whole new layer of complexity.
 
 What are microservices? While there’s no single agreed-upon definition, the consensus in the industry is that they are small, independent processes that intercommunicate to fulfill the tasks of a larger application.
 
@@ -38,7 +38,7 @@ All of which makes troubleshooting microservices more challenging.
 
 ## Methods for Debugging Microservices with Kubernetes
 
-There are several methods to debug microservices using Kubernetes, but a great tool (and one recommended by [Kubernetes itself](https://kubernetes.io/docs/tasks/debug-application-cluster/local-debugging/){:target="_blank"} is Telepresence.
+There are several methods to debug microservices using Kubernetes, but a great tool (and one recommended by [Kubernetes itself](https://kubernetes.io/docs/tasks/debug-application-cluster/local-debugging/){:target="_blank" rel="noopener"} is Telepresence.
 
 Normally, you’d have to get a shell on a running container manually and run your tools inside that remote shell. But with Telepresence, you can debug services running on a remote cluster locally using your own setup.
 
@@ -47,7 +47,7 @@ Normally, you’d have to get a shell on a running container manually and run yo
 To get started, make sure that:
 
 - You have configured kubectl to communicate with the remote cluster
-- You have [installed Telepresence](https://www.telepresence.io/reference/install){:target="_blank"}
+- You have [installed Telepresence](https://www.telepresence.io/reference/install){:target="_blank" rel="noopener"}
 
 Once you take care of those steps, it’s time to get a shell. Open a terminal and run `telepresence` (no arguments). Congratulations! You have a Telepresence shell running locally.
 
@@ -77,7 +77,7 @@ The user requests your application, ready to be wowed by its functionality. But,
 
 Where could the problem be?
 
-[Ray Tsang](https://jaxenter.com/troubleshooting-microservices-kubernetes-158797.html){:target="_blank"}, Developer Advocate for the Google Cloud Platform, recommends following these steps to identify and fix this kind of error.
+[Ray Tsang](https://jaxenter.com/troubleshooting-microservices-kubernetes-158797.html){:target="_blank" rel="noopener"}, Developer Advocate for the Google Cloud Platform, recommends following these steps to identify and fix this kind of error.
 
 1. Use the same browser (if available to you) but a different session to test and see if the error persists
 2. Check to see if the app is running well on your staging environment

@@ -9,7 +9,7 @@ thumbnail: handshake.jpg
 thumbnail_alt: A handshake
 ---
 
-Did you know that, when you apply online for that job your heart is set on, [you’re competing](https://www.glassdoor.com/employers/blog/50-hr-recruiting-stats-make-think/#:~:text=On%20average,%20each%20corporate%20job%20opening%20attracts%20250%20resumes){:target="_blank"} with an average of 249 other applicants?
+Did you know that, when you apply online for that job your heart is set on, [you’re competing](https://www.glassdoor.com/employers/blog/50-hr-recruiting-stats-make-think/#:~:text=On%20average,%20each%20corporate%20job%20opening%20attracts%20250%20resumes){:target="_blank" rel="noopener"} with an average of 249 other applicants?
 
 You may be fully qualified for the job. In fact, you may be the best-qualified candidate. But, unless your resume shows that clearly, you won’t get the interview. Just like the vast majority of the applicants.
 

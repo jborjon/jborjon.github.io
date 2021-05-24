@@ -9,7 +9,7 @@ thumbnail: work-team.jpg
 thumbnail_alt: A team at work at the office
 ---
 
-The business intelligence market around the world is forecasted to grow from $23 billion in 2020 to [$33 billion by 2025](https://www.marketsandmarkets.com/PressReleases/social-business-intelligence-bi.asp){:target="_blank"}. Are you prepared for the massive business changes that this technology will bring about?
+The business intelligence market around the world is forecasted to grow from $23 billion in 2020 to [$33 billion by 2025](https://www.marketsandmarkets.com/PressReleases/social-business-intelligence-bi.asp){:target="_blank" rel="noopener"}. Are you prepared for the massive business changes that this technology will bring about?
 
 Are you wondering if business intelligence applications can bring value to your company? If yes, then this overview is for you.
 

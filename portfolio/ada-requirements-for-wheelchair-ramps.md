@@ -9,7 +9,7 @@ thumbnail: international-symbol-of-accessibility.jpg
 thumbnail_alt: The International Symbol of Accessibility
 ---
 
-If you’re a business owner with a public-facing building, you need to comply with ADA requirements for ramps, but do you know what they are? If you don’t, you could be fined [up to $75,000](https://www.ada.gov/civil_penalties_2014.htm){:target="_blank"} just for your _first_ violation.
+If you’re a business owner with a public-facing building, you need to comply with ADA requirements for ramps, but do you know what they are? If you don’t, you could be fined [up to $75,000](https://www.ada.gov/civil_penalties_2014.htm){:target="_blank" rel="noopener"} just for your _first_ violation.
 
 But let’s be frank: It’s not only about avoiding fines and lawsuits. It’s about being inclusive to everyone you do business with, regardless of their physical limitations.
 
@@ -17,7 +17,7 @@ If you need to update your building to meet wheelchair ramp requirements, this a
 
 ## What Is ADA?
 
-About [1 in 4 adults](https://www.cdc.gov/ncbddd/disabilityandhealth/infographic-disability-impacts-all.html){:target="_blank"} in the US have some type of disability. The Americans with Disabilities Act of 1990 (ADA) defines all kinds of regulations to spare those with disabilities from discrimination, deliberate or otherwise.
+About [1 in 4 adults](https://www.cdc.gov/ncbddd/disabilityandhealth/infographic-disability-impacts-all.html){:target="_blank" rel="noopener"} in the US have some type of disability. The Americans with Disabilities Act of 1990 (ADA) defines all kinds of regulations to spare those with disabilities from discrimination, deliberate or otherwise.
 
 One of the many requirements that ADA law specifies is the way wheelchair ramps should be built for maximum accessibility.
 

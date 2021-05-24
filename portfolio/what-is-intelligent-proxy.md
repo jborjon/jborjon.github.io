@@ -9,7 +9,7 @@ thumbnail: stirling-castle.jpg
 thumbnail_alt: Stirling Castle in Stirling, Scotland
 ---
 
-Every day and night, there could be [endless malicious attacks](https://www.nsi1.com/blog/mitigating-the-second-biggest-threat-web){:target="_blank"} trying to compromise your internet-connected devices.
+Every day and night, there could be [endless malicious attacks](https://www.nsi1.com/blog/mitigating-the-second-biggest-threat-web){:target="_blank" rel="noopener"} trying to compromise your internet-connected devices.
 
 If you don’t have the proper security, you’re vulnerable to infections, ransomware attacks, and leaks of your valuable business data.
 
@@ -35,7 +35,7 @@ Sites where users upload and share content with each other are an example of the
 
 ## The Trouble with Regular Proxies
 
-A [regular proxy](https://www.varonis.com/blog/what-is-a-proxy-server/#:~:text=A%20proxy%20server%20acts%20as%20a%20gateway%20between%20you%20and%20the%20internet.&text=Proxy%20servers%20act%20as%20a,out%20in%20the%20wild%20internet.){:target="_blank"} has to intercept and inspect _every single connection request._ This gets problematic if users’ devices are on a shared network, as they are in business networks.
+A [regular proxy](https://www.varonis.com/blog/what-is-a-proxy-server/#:~:text=A%20proxy%20server%20acts%20as%20a%20gateway%20between%20you%20and%20the%20internet.&text=Proxy%20servers%20act%20as%20a,out%20in%20the%20wild%20internet.){:target="_blank" rel="noopener"} has to intercept and inspect _every single connection request._ This gets problematic if users’ devices are on a shared network, as they are in business networks.
 
 Network availability and speed go down very fast as the proxy has to analyze more and more requests. Besides, deploying and maintaining a proxy can be hard and costly work.
 

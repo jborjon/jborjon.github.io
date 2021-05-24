@@ -17,7 +17,7 @@ So, what was the ZX Spectrum, and how strong is its legacy today as a symbol of 
 
 ## A Brief History of the ZX Spectrum
 
-Sinclair, a London-based company founded by Clive Sinclair (now Sir Clive), had already found great success with the ZX80 and ZX81 home computers, both built on the popular [Zilog Z80 microprocessor](https://landley.net/history/mirror/cpm/z80.html){:target="_blank"}.
+Sinclair, a London-based company founded by Clive Sinclair (now Sir Clive), had already found great success with the ZX80 and ZX81 home computers, both built on the popular [Zilog Z80 microprocessor](https://landley.net/history/mirror/cpm/z80.html){:target="_blank" rel="noopener"}.
 
 The ZX Spectrum—known as Speccy by some fans—was Sinclair Research’s third computer model. It would also become their best-seller.
 
@@ -39,7 +39,7 @@ This keyboard would go on to earn a reputation for its lack of tactile feedback.
 
 Because of its design philosophy, the circuit board of the ZX Spectrum had its components as close to each other as the technology would allow, making this a tiny computer for its day.
 
-Metal case and all, it weighed 550 grams (1.2 pounds). Contrast that with the four-pound [Commodore 64](https://www.commodore.ca/commodore-products/commodore-64-the-best-selling-computer-in-history/){:target="_blank"} and the eight-pound [BBC Micro](https://computerhistory.org/blog/the-bbc-micro/){:target="_blank"}.
+Metal case and all, it weighed 550 grams (1.2 pounds). Contrast that with the four-pound [Commodore 64](https://www.commodore.ca/commodore-products/commodore-64-the-best-selling-computer-in-history/){:target="_blank" rel="noopener"} and the eight-pound [BBC Micro](https://computerhistory.org/blog/the-bbc-micro/){:target="_blank" rel="noopener"}.
 
 ### Release
 
@@ -95,17 +95,17 @@ Even so, you could say the ZX Spectrum is very much alive.
 
 Collectors, historians, and hobbyists make up a vibrant online community of Spectrum fans. Portugal even boasts a fan-made museum, LOAD ZX Spectrum, a hundred percent dedicated to the machine.
 
-And on April 23, 2012, Google honored the Spectrum’s legacy with a [Google Doodle](https://www.google.com/doodles/st-georges-day-the-30th-anniversary-of-the-zx-spectrum){:target="_blank"}.
+And on April 23, 2012, Google honored the Spectrum’s legacy with a [Google Doodle](https://www.google.com/doodles/st-georges-day-the-30th-anniversary-of-the-zx-spectrum){:target="_blank" rel="noopener"}.
 
 But the Spectrum doesn’t just live in museums and Doodles. Several modern clones attempt to take you back to the ZX Spectrum’s heyday.
 
-The most recent of the bunch is a Kickstarter project from Brazil called [ZX Spectrum Next](https://www.specnext.com/about/){:target="_blank"}, a modern 8-bit home computer based on the 128 variant from 1985.
+The most recent of the bunch is a Kickstarter project from Brazil called [ZX Spectrum Next](https://www.specnext.com/about/){:target="_blank" rel="noopener"}, a modern 8-bit home computer based on the 128 variant from 1985.
 
 Released in its complete form in 2020, the Next has a Z80 CPU implemented in a modern FPGA. Issue 1 comes with 1MB of RAM, upgradable to 2MB. Issue 2, expected in August 2021, will come standard with 2MB.
 
 It also comes with VGA, RGB, and HDMI ports, and is software- and hardware compatible with the original machine.
 
-Beyond hardware clones, devoted fans are still [writing games](https://vintageisthenewold.com/tag/zx-spectrum-homebrew-games/){:target="_blank"} for their favorite home computer of all time.
+Beyond hardware clones, devoted fans are still [writing games](https://vintageisthenewold.com/tag/zx-spectrum-homebrew-games/){:target="_blank" rel="noopener"} for their favorite home computer of all time.
 
 ## Enjoyment for Years to Come
 

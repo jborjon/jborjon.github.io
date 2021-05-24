@@ -39,9 +39,9 @@ And always avoid fluff. You’re in the business of providing useful, actionable
 
 ## 2. Dial in Your SEO
 
-Even if you have the most charming post on the Web about your topic, people won’t find it unless you enlist the search engines that will serve your article to your audience. This is where [search engine optimization](https://moz.com/beginners-guide-to-seo){:target="_blank"}, or SEO, comes in.
+Even if you have the most charming post on the Web about your topic, people won’t find it unless you enlist the search engines that will serve your article to your audience. This is where [search engine optimization](https://moz.com/beginners-guide-to-seo){:target="_blank" rel="noopener"}, or SEO, comes in.
 
-You want to make sure your post has enough relevant keywords to rank in search results. WordStream has a [spectacular tool](https://www.wordstream.com/keywords){:target="_blank"} to help you with keyword research. And it’s free!
+You want to make sure your post has enough relevant keywords to rank in search results. WordStream has a [spectacular tool](https://www.wordstream.com/keywords){:target="_blank" rel="noopener"} to help you with keyword research. And it’s free!
 
 But don’t get hung up on keywords alone. Search engines are getting smarter, and they can recognize the intent of the searcher and the general topic of your posts.
 
@@ -63,7 +63,7 @@ That’s why sharing your personal stories—including the obstacles you had and
 
 ## 5. Promote Your Content
 
-One very effective way of [increasing traffic](https://www.forbes.com/sites/robertadams/2017/04/10/23-proven-ways-to-drive-traffic-to-your-website/){:target="_blank"} to your content is to promote it.
+One very effective way of [increasing traffic](https://www.forbes.com/sites/robertadams/2017/04/10/23-proven-ways-to-drive-traffic-to-your-website/){:target="_blank" rel="noopener"} to your content is to promote it.
 
 Send out a tweet or status update after you post your article. Build an email list and send updates to your subscribers. Seek out opportunities to guest-blog.
 
@@ -71,4 +71,4 @@ Send out a tweet or status update after you post your article. Build an email li
 
 With those tips in mind, you’ll be on your way to getting your content read more widely.
 
-Just remember that your content won’t show up in search results unless your SEO is on point. Browse through the many [free SEO services](https://neilpatel.com/blog/seven-free-seo-tools/){:target="_blank"} and use them to get started.
+Just remember that your content won’t show up in search results unless your SEO is on point. Browse through the many [free SEO services](https://neilpatel.com/blog/seven-free-seo-tools/){:target="_blank" rel="noopener"} and use them to get started.

@@ -9,7 +9,7 @@ thumbnail: woman-with-tablet.jpg
 thumbnail_alt: A woman touching a mobile tablet screen
 ---
 
-Over $43 billion. That’s how big [Grand View Research](https://www.grandviewresearch.com/press-release/global-edge-computing-market){:target="_blank"} predicts the edge computing market will be around the world by 2027.
+Over $43 billion. That’s how big [Grand View Research](https://www.grandviewresearch.com/press-release/global-edge-computing-market){:target="_blank" rel="noopener"} predicts the edge computing market will be around the world by 2027.
 
 Have you heard of edge computing? If you haven’t, or you have but don’t quite know what it is, you’re not alone.
 
@@ -58,13 +58,13 @@ That’s where we’re headed in the next few years. The changes in the infrastr
 
 If servers are the "core" of the cloud, devices that generate data are at the "edge."
 
-Your Apple device turning your voice into signals it can recognize—that’s generating data. But it’s not all about mobile edge computing. Examples of [machines at the edge](https://medium.com/velotio-perspectives/a-beginners-guide-to-edge-computing-6cfea853aa11){:target="_blank"} are IoT devices such as smart door locks and light bulbs. There are also network-connected industrial sensors and autonomous vehicles.
+Your Apple device turning your voice into signals it can recognize—that’s generating data. But it’s not all about mobile edge computing. Examples of [machines at the edge](https://medium.com/velotio-perspectives/a-beginners-guide-to-edge-computing-6cfea853aa11){:target="_blank" rel="noopener"} are IoT devices such as smart door locks and light bulbs. There are also network-connected industrial sensors and autonomous vehicles.
 
 Because of its nature, edge computing won’t edge out cloud computing. The technologies increasingly complement each other.
 
 ## How Does Music Benefit From This Technology?
 
-The [Internet of Music Things](https://link.springer.com/article/10.1007/s11227-018-2511-6){:target="_blank"} is... Well, a thing. It’s the ecosystem of networks and IoT devices dedicated to the production and perception of musical content.
+The [Internet of Music Things](https://link.springer.com/article/10.1007/s11227-018-2511-6){:target="_blank" rel="noopener"} is... Well, a thing. It’s the ecosystem of networks and IoT devices dedicated to the production and perception of musical content.
 
 Imagine the possibilities. We could have a world where musicians are more directly connected to each other and their audience. There may spring up new services for musical diffusion that we couldn’t dream of today.
 

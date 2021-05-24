@@ -11,17 +11,17 @@ thumbnail_alt: A man holding his face in despair
 
 You’ve been at it for weeks. Months. Sending application after application, with little to no response. And it’s starting to get to you.
 
-You’re not alone. Without professional help, only about [12 percent](https://zety.com/blog/job-search-statistics){:target="_blank"} of applicants receive an invitation for an interview. On average across industries, it takes 40 days to fill a position, but you may be competing for that position with hundreds of other applicants.
+You’re not alone. Without professional help, only about [12 percent](https://zety.com/blog/job-search-statistics){:target="_blank" rel="noopener"} of applicants receive an invitation for an interview. On average across industries, it takes 40 days to fill a position, but you may be competing for that position with hundreds of other applicants.
 
 All this pressure and uncertainty can lead you to burn out. But there are steps you can (and should) take to protect your physical and mental health while you’re looking for a job, especially when it gets hard to keep going.
 
 ## The Job Search Process
 
-The truth is, the job search process isn’t designed to be easy for job seekers. You put in unpaid time to find job postings, fill out applications, and tailor your resume and cover letter. And [you’re doing all that](https://www.promotedresume.com/blog/not-hearing-back-from-employers-applying-to-jobs){:target="_blank"} with zero guarantees that it will lead to anything, all while working another job or struggling with unemployment.
+The truth is, the job search process isn’t designed to be easy for job seekers. You put in unpaid time to find job postings, fill out applications, and tailor your resume and cover letter. And [you’re doing all that](https://www.promotedresume.com/blog/not-hearing-back-from-employers-applying-to-jobs){:target="_blank" rel="noopener noreferrer"} with zero guarantees that it will lead to anything, all while working another job or struggling with unemployment.
 
 But remember: it’s not personal. Employers aren’t going out of their way to keep you out of their sacred halls and succulent opportunities. They’re just making an effort to find the candidate they think will be the best fit for _that_ role in _that_ company at _that_ time.
 
-Their efforts are [imperfect and often misguided](https://hbr.org/2019/05/your-approach-to-hiring-is-all-wrong){:target="_blank"}, but they’re not trying to hurt anyone.
+Their efforts are [imperfect and often misguided](https://hbr.org/2019/05/your-approach-to-hiring-is-all-wrong){:target="_blank" rel="noopener"}, but they’re not trying to hurt anyone.
 
 That said, it’s hard for you, the job-seeker, to manage the demands placed on you by the process, especially as days turn into weeks and weeks turn into months. Burnout can have damaging effects on you and your productivity, so you owe it to yourself and your loved ones to do everything you can to keep burnout at bay.
 
@@ -29,7 +29,7 @@ That said, it’s hard for you, the job-seeker, to manage the demands placed on 
 
 Job hunting isn’t in most lists of favorite hobbies, but most people can handle a few weeks of it with little difficulty. It’s when your efforts drag on and the results are elusive that your mental health starts to be at risk of deteriorating.
 
-While burnout isn’t a medical diagnosis, its [psychological and physiological effects](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/burnout/art-20046642){:target="_blank"} are real. It can cause physical or emotional exhaustion, a reduced sense of accomplishment, and a perceived loss of personal identity. It makes you think, “What’s the point of doing all this?”
+While burnout isn’t a medical diagnosis, its [psychological and physiological effects](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/burnout/art-20046642){:target="_blank" rel="noopener"} are real. It can cause physical or emotional exhaustion, a reduced sense of accomplishment, and a perceived loss of personal identity. It makes you think, “What’s the point of doing all this?”
 
 It’s not just about the constant rejection; it’s also about the disconnect between how you view your own identity—a successful software developer, a driven manager, an accomplished financial analyst—and not being engaged in that occupation. The feeling of not being wanted to do what you do is disconcerting.
 
@@ -59,7 +59,7 @@ Not a good deal for strategic, long-term thinking to score a meaningful role.
 
 Of course, some anxiety is inevitable, and you can work through it. But unmanaged anxiety can quickly spin out of control.
 
-So don’t put off self-care and personal development. Rest. Exercise. Eat well. Take deep breaths and [practice mindfulness](https://www.psychologytoday.com/us/basics/mindfulness){:target="_blank"}. Volunteer or pursue a hobby that makes you feel you’re exercising your occupational identity, or that’s just plain fun for you. Schedule time to do these things.
+So don’t put off self-care and personal development. Rest. Exercise. Eat well. Take deep breaths and [practice mindfulness](https://www.psychologytoday.com/us/basics/mindfulness){:target="_blank" rel="noopener"}. Volunteer or pursue a hobby that makes you feel you’re exercising your occupational identity, or that’s just plain fun for you. Schedule time to do these things.
 
 If you don’t see how self-care could ever help reduce your anxiety, it’s time to try it anyway. You’ll be surprised.
 
@@ -75,17 +75,17 @@ And you won’t be working well past the point where you’re productive, so you
 
 ### 3. Break away from time to time
 
-There’s plenty of research pointing to the need to [take breaks](https://www.apa.org/monitor/2019/01/break){:target="_blank"} during and between work shifts. It’s part of our mental makeup.
+There’s plenty of research pointing to the need to [take breaks](https://www.apa.org/monitor/2019/01/break){:target="_blank" rel="noopener"} during and between work shifts. It’s part of our mental makeup.
 
 People in industrialized societies, such as the US, love to be busy. They pride themselves in their ability to work long hours and be always available. They humble-brag about how many hours they’ve put in and how much sleep they’ve lost to work.
 
-But science tell us those same people, or at least most of them, would [accomplish more in less time](https://www.inc.com/minda-zetlin/productivity-workday-52-minutes-work-17-minutes-break-travis-bradberry-pomodoro-technique.html){:target="_blank"} with higher quality if they took the time to rest. This is true regardless of whether you’re working for an employer or looking for your next one.
+But science tell us those same people, or at least most of them, would [accomplish more in less time](https://www.inc.com/minda-zetlin/productivity-workday-52-minutes-work-17-minutes-break-travis-bradberry-pomodoro-technique.html){:target="_blank" rel="noopener"} with higher quality if they took the time to rest. This is true regardless of whether you’re working for an employer or looking for your next one.
 
 While looking for work, take frequent breaks. Step away from the computer. Go on a walk. On certain days, disconnect. Break the monotony of your job search with something planned to look forward to every week or every few days.
 
 ### 4. Network—but do it effectively
 
-According to research by LinkedIn, [70 percent](https://news.linkedin.com/2017/6/eighty-percent-of-professionals-consider-networking-important-to-career-success){:target="_blank"} of people were hired at a company where they had a connection in 2016. So yeah, networking is important.
+According to research by LinkedIn, [70 percent](https://news.linkedin.com/2017/6/eighty-percent-of-professionals-consider-networking-important-to-career-success){:target="_blank" rel="noopener"} of people were hired at a company where they had a connection in 2016. So yeah, networking is important.
 
 But the way most networking happens is ineffective and it leaves participants feeling like a cog in an impersonal machine rather than humans with intrinsic value.
 
@@ -103,7 +103,7 @@ This includes hiring managers and executives. They aren’t machines, and they r
 
 Because it will yield better results for the same amount of effort. It will help you feel in control, reduce anxiety, and give you an increased sense that what you’re pursuing will eventually come.
 
-[Customize your resume](https://www.promotedresume.com/blog/how-to-write-a-resume-with-no-experience-part-one){:target="_blank"} for each application. Make sure you’re conveying your experience with [well-written bullet points](https://www.promotedresume.com/blog/how-to-write-good-resume-bullet-points-guide){:target="_blank"} and that you have the right [keywords for ATS](https://www.promotedresume.com/blog/how-to-get-your-resume-past-the-applicant-tracking-systems-ats){:target="_blank"}. Leverage the power of LinkedIn.
+[Customize your resume](https://www.promotedresume.com/blog/how-to-write-a-resume-with-no-experience-part-one){:target="_blank" rel="noopener noreferrer"} for each application. Make sure you’re conveying your experience with [well-written bullet points](https://www.promotedresume.com/blog/how-to-write-good-resume-bullet-points-guide){:target="_blank" rel="noopener noreferrer"} and that you have the right [keywords for ATS](https://www.promotedresume.com/blog/how-to-get-your-resume-past-the-applicant-tracking-systems-ats){:target="_blank" rel="noopener noreferrer"}. Leverage the power of LinkedIn.
 
 Fill out each application carefully and completely. Ask questions if you need to.
 
@@ -125,4 +125,4 @@ Ultimately, even if you are the best candidate, the hiring process doesn’t gua
 
 Eventually, your job search will yield results. Have hope and confidence in yourself. After all, you’ve been exercising your work ethic by searching incredibly hard for your next job. You have what it takes to land it.
 
-Browse [our blog](https://www.promotedresume.com/blog){:target="_blank"} for additional articles on developing your career.
+Browse [our blog](https://www.promotedresume.com/blog){:target="_blank" rel="noopener noreferrer"} for additional articles on developing your career.
