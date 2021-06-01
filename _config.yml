@@ -4,5 +4,6 @@ description: Increase your reach with Joseph Borjon, a US-based writer specializ
 exclude:
   - favicons/favicon.xcf
   - images/original/
+  - scripts/unminified/
 compress_html:
   clippings: all
