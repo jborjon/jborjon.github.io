@@ -65,17 +65,17 @@ This complexity of ASD calls for the most effective intervention available. And 
 
 Let’s look at five specific benefits.
 
-### 1\. Improves Overall Development
+### 1. Improves Overall Development
 
 Starting intervention early can mean you’re catching and correcting issues at a critical point in the development of your child, changing the developmental path. Improvement in one area may transfer to others.
 
-### 2\. Improves Social Skills
+### 2. Improves Social Skills
 
 One of the main areas of the deficit with ASD is social impairment. The capacity to relate to others is either not there or is diminished.
 
 ABA therapy and other treatments consistently improve children’s ability to empathize and relate to others, allowing them to participate in meaningful ways in social activities that are crucial to their development.
 
-### 3\. Improves Coping Skills
+### 3. Improves Coping Skills
 
 Just because they can’t always express it doesn’t mean that children with autism don’t experience internal struggles. They do, and the turmoil is often intense.
 
@@ -83,13 +83,13 @@ In addition, they tend to become fixated on certain activities, interests, or be
 
 Early intervention can help them learn how to soothe their fears and frustrations and cope with them constructively.
 
-### 4\. Improves Parent-Child Relationships
+### 4. Improves Parent-Child Relationships
 
 Learning about your child’s world can help you, the parent, find a degree of empathy and connection you may not achieve otherwise. According to many parents, there’s something magical about relating at that level.
 
 Besides, keeping behaviors that may bother the rest of the family under control can be a boon to parents, facilitating the relationship.
 
-### 5\. Improves Quality of Life
+### 5. Improves Quality of Life
 
 The inevitable result of all that improvement is that your child will thrive, and, as a result, so will you. There’s no better way to help your child reach her or his full potential.
 
