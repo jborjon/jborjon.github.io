@@ -1,14 +1,34 @@
-<a class="article-link-wrapper" href="{{ include.url }}" {%- if include.new_tab %} target="_blank" {%- endif %}>
+<a class="article-link-wrapper" href="{{ include.url }}" {%- if include.is_standalone_file %} target="_blank" {%- endif %}>
   <section class="article-link">
     <div class="article-link-text">
       <p class="article-link-category">{{ include.category | smartify }}</p>
       <h3 class="article-link-title">{{ include.title | smartify }}</h3>
-      <p class="article-link-blurb {%- if include.no_clamp != true %} blurb-clamped {%- endif %}">{{ include.blurb }}</p>
+      {%- if include.blurb %}
+      <p class="article-link-blurb {%- if include.is_standalone_file != true %} blurb-clamped {%- endif %}">{{ include.blurb }}</p>
+      {%- endif %}
     </div>
-    {% comment %} {%- assign image_file = site.static_files | where_exp: "file", "file.name == include.thumbnail" | first %} {% endcomment %}
+
+    {%- comment %} xs_image_basename, sm_image_basename, and file_type get assigned in this include {% endcomment %}
+    {%- include get-image-file-info.html image_file=include.thumbnail is_standalone_file=include.is_standalone_file %}
+
     <div class="thumbnail-container">
-      <img class="thumbnail-image" {%- if include.is_lazy_loaded %} loading="lazy" {%- endif %} src="/images/{{ include.thumbnail }}" alt="{{ include.thumbnail_alt }}">
-      <!--<img class="thumbnail-image" {%- if include.is_lazy_loaded %} loading="lazy" {%- endif %} srcset="/images/bread-boule-sliced-thumbnail.jpg 1x, /images/bread-boule-sliced-thumbnail@2x.jpg 2x" src="/images/bread-boule-sliced-thumbnail.jpg" alt="{{ include.thumbnail_alt }}">-->
+      <picture>
+        <source
+          type="image/webp"
+          srcset="/images/{{ image_basename_xs }}.webp 1x,
+                  /images/{{ image_basename_sm }}.webp 2x">
+        <source
+          type="image/{{ file_type }}"
+          srcset="/images/{{ image_basename_xs }}{{ image_file.extname }} 1x,
+                  /images/{{ image_basename_sm }}{{ image_file.extname }} 2x">
+        <img
+          class="thumbnail-image"
+          {%- if include.is_lazy_loaded %} loading="lazy" {%- endif %}
+          srcset="/images/{{ image_basename_xs }}{{ image_file.extname }} 1x,
+                  /images/{{ image_basename_sm }}{{ image_file.extname }} 2x"
+          src="/images/{{ image_basename_xs }}{{ image_file.extname }}"
+          alt="{{ include.thumbnail_alt }}">
+      </picture>
     </div>
   </section>
 </a>

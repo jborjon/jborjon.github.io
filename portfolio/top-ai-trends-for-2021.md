@@ -1,12 +1,8 @@
 ---
 title: Top AI Trends for 2021
-layout: article
-article_type: post
 category: tech in business
 featured_image: matrix-screen.jpg
 featured_image_alt: A screenshot from a screen in the style of the film The Matrix
-thumbnail: matrix-screen.jpg
-thumbnail_alt: A screenshot from a screen in the style of the film The Matrix
 ---
 
 In 2019, market intelligence firm IDC projected that global spending on AI systems would grow by more than 2.5 times by 2023, from [$38 billion](https://www.idc.com/getdoc.jsp?containerId=prUS45481219#:~:text=According%20to%20the%20recently%20updated,will%20be%20spent%20in%202019.){:target="_blank" rel="noopener"} to $98 billion.

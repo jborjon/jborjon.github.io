@@ -1,12 +1,8 @@
 ---
 title: Why Do Companies Invest in Business Intelligence Applications?
-layout: article
-article_type: post
 category: tech in business
 featured_image: work-team-meeting.jpg
 featured_image_alt: A team at work at the office
-thumbnail: work-team-meeting.jpg
-thumbnail_alt: A team at work at the office
 ---
 
 The business intelligence market around the world is forecasted to grow from $23 billion in 2020 to [$33 billion by 2025](https://www.marketsandmarkets.com/PressReleases/social-business-intelligence-bi.asp){:target="_blank" rel="noopener"}. Are you prepared for the massive business changes that this technology will bring about?

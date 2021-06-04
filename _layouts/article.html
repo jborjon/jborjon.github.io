@@ -6,13 +6,45 @@ layout: default
   <header>
     <p class="article-category">{{ page.category | smartify }}</p>
     <h1 class="article-title">{{ page.title | smartify }}</h1>
-  
+
     {%- if page.article_type == "post" %}
     <p class="word-count">Word count: {{ content | strip_html | number_of_words }}</p>
     {%- endif %}
 
     {%- if page.featured_image %}
-    <img class="featured-image" src="/images/{{ page.featured_image }}" alt="{{ page.featured_image_alt }}">
+      {%- assign breakpoint = 442 %}
+
+      {%- comment %} image_file and file_type get assigned in this include {% endcomment %}
+      {%- include get-image-file-info.html image_file=page.featured_image %}
+
+    <picture>
+      <source
+        type="image/webp"
+        media="screen and (min-width: {{ breakpoint | plus: 1 }}px)"
+        srcset="/images/{{ image_file.basename }}.webp 1x,
+                /images/{{ image_file.basename }}@2x.webp 2x">
+      <source
+        type="image/webp"
+        media="screen and (max-width: {{ breakpoint }}px)"
+        srcset="/images/{{ image_file.basename }}-sm.webp 1x,
+                /images/{{ image_file.basename }}.webp 2x">
+      <source
+        type="image/{{ file_type }}"
+        media="screen and (min-width: {{ breakpoint | plus: 1 }}px)"
+        srcset="/images/{{ image_file.name }} 1x,
+                /images/{{ image_file.basename }}@2x{{ image_file.extname }} 2x">
+      <source
+        type="image/{{ file_type }}"
+        media="screen and (max-width: {{ breakpoint }}px)"
+        srcset="/images/{{ image_file.basename }}-sm{{ image_file.extname }} 1x,
+                /images/{{ image_file.name }} 2x">
+      <img
+        class="featured-image"
+        srcset="/images/{{ image_file.name }} 1x,
+                /images/{{ image_file.basename }}@2x{{ image_file.extname }} 2x"
+        src="/images/{{ image_file.name }}"
+        alt="{{ page.featured_image_alt }}">
+    </picture>
     {%- endif %}
   </header>
 

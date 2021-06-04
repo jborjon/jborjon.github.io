@@ -1,12 +1,8 @@
 ---
 title: What Is the Intelligent Proxy and Can It Stop Malicious Attacks?
-layout: article
-article_type: post
 category: tech in business
 featured_image: stirling-castle.jpg
 featured_image_alt: Stirling Castle in Stirling, Scotland
-thumbnail: stirling-castle.jpg
-thumbnail_alt: Stirling Castle in Stirling, Scotland
 ---
 
 Every day and night, there could be [endless malicious attacks](https://www.nsi1.com/blog/mitigating-the-second-biggest-threat-web){:target="_blank" rel="noopener"} trying to compromise your internet-connected devices.

@@ -1,12 +1,8 @@
 ---
 title: "Take the Cloud With You: A Guide to Edge Computing"
-layout: article
-article_type: post
 category: tech in business
 featured_image: woman-with-tablet.jpg
 featured_image_alt: A woman touching a mobile tablet screen
-thumbnail: woman-with-tablet.jpg
-thumbnail_alt: A woman touching a mobile tablet screen
 ---
 
 Over $43 billion. That’s how big [Grand View Research](https://www.grandviewresearch.com/press-release/global-edge-computing-market){:target="_blank" rel="noopener"} predicts the edge computing market will be around the world by 2027.

@@ -35,28 +35,14 @@ id: portfolio
 
 <h2 class="portfolio-section-title">Technical Writing</h2>
 
-{% include article-link.html
-  url="supressor-manual.pdf"
-  title="Lifetime Silencers User’s Manual (PDF)"
-  category="user’s manual"
-  blurb="A trifold pamphlet included with every purchase of a suppressor. Designed, researched, and written by me."
-  thumbnail="lifetime-silencers-logo.png"
-  thumbnail_alt="Lifetime Silencers logo"
-  new_tab=true
-  no_clamp=true
-  is_lazy_loaded=true
-%}
+{%- assign technical_pieces = site.data.portfolio_files | where: "article_type", "technical_file" %}
+{%- for piece in technical_pieces %}
+  {% include article-link-logic.html article=piece is_lazy_loaded=true %}
+{%- endfor %}
 
 <h2 class="portfolio-section-title">Fiction</h2>
 
-{% include article-link.html
-  url="Linked_Joseph-Borjon.pdf"
-  title="Linked (PDF)"
-  category="screenplay"
-  blurb="A help-averse woman suddenly develops permanent, invisible weighted gym chains around her shoulders, and they refuse to come off despite her darndest efforts."
-  thumbnail="screenplay-screenshot.png"
-  thumbnail_alt="A portion of a screenplay title page"
-  new_tab=true
-  no_clamp=true
-  is_lazy_loaded=true
-%}
+{%- assign fiction_pieces = site.data.portfolio_files | where: "article_type", "fiction_file" %}
+{%- for tale in fiction_pieces %}
+  {% include article-link-logic.html article=tale is_lazy_loaded=true %}
+{%- endfor %}

@@ -1,12 +1,8 @@
 ---
 title: 5 Lifestyle Tips to Lower Your Blood Pressure
-layout: article
-article_type: post
 category: health and wellness
 featured_image: woman-jogging.jpg
 featured_image_alt: A woman jogging in nature
-thumbnail: woman-jogging.jpg
-thumbnail_alt: A woman jogging in nature
 ---
 
 About [108 million adults](https://www.cdc.gov/bloodpressure/facts.htm#:~:text=Nearly%20half%20of%20adults%20in,are%20taking%20medication%20for%20hypertension.&text=Only%20about%201%20in%204,have%20their%20condition%20under%20control.){:target="_blank" rel="noopener"} in the US suffer from high blood pressure—that’s nearly half of all adults. But only about a quarter of them have the condition under control.

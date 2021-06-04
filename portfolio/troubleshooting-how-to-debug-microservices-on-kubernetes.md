@@ -1,12 +1,8 @@
 ---
 title: "Troubleshooting: How to Debug Microservices on Kubernetes"
-layout: article
-article_type: post
 category: software development
 featured_image: shipping-containers.jpg
 featured_image_alt: Stacked shipping containers at a port
-thumbnail: shipping-containers.jpg
-thumbnail_alt: Stacked shipping containers at a port
 ---
 
 Forty to 90 percent of total software product costs happen after launch.

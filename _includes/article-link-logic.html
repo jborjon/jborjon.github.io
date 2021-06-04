@@ -1,29 +1,43 @@
-{%- assign article_url = include.article.url | remove: ".html" %}
-{%- assign article_title = include.article.title %}
-{%- assign article_category = include.article.category %}
+{% assign article_url = include.article.url | remove: ".html" %}
+{% assign article_title = include.article.title %}
+{% assign article_category = include.article.category %}
 
-{%- assign article_blurb = include.article.content | markdownify | strip_html | truncatewords: 26, "" %}
+{% comment %} Get the first bit of content from an article or the blurb from a standalone file {% endcomment %}
+{% if include.article.content %}
+  {% assign article_blurb = include.article.content | markdownify | strip_html | truncatewords: 26, "" %}
+{% elsif include.article.blurb %}
+  {% assign article_blurb = include.article.blurb %}
+{% else %}
+  {% assign article_blurb = "" %}
+{% endif %}
 
 {% comment %} Only get the thumbnail and its alt text if the article specifies an image {% endcomment %}
-{%- if include.article.thumbnail %}
-  {%- assign article_thumbnail = include.article.thumbnail %}
-{%- else %}
-  {%- assign article_thumbnail = "" %}
-{%- endif %}
-{%- if include.article.thumbnail_alt and include.article.thumbnail %}
-  {%- assign article_thumbnail_alt = include.article.thumbnail_alt %}
-{%- else %}
-  {%- assign article_thumbnail_alt = "" %}
-{%- endif %}
+{% if include.article.featured_image %}
+  {% assign article_thumbnail = include.article.featured_image %}
+{% else %}
+  {% assign article_thumbnail = "" %}
+{% endif %}
+{% if include.article.featured_image_alt and include.article.featured_image %}
+  {% assign article_thumbnail_alt = include.article.featured_image_alt %}
+{% else %}
+  {% assign article_thumbnail_alt = "" %}
+{% endif %}
 
-{%- include article-link.html
+{% comment %} Decide if the link is a standalone file and treat it accordingly {% endcomment %}
+{% assign article_type_end = include.article.article_type | slice: -5, 5 %}
+{% if article_type_end == "_file" %}
+  {% assign standalone_file = true %}
+{% else %}
+  {% assign standalone_file = false %}
+{% endif %}
+
+{% include article-link.html
   url=article_url
   title=article_title
   category=article_category
   blurb=article_blurb
   thumbnail=article_thumbnail
   thumbnail_alt=article_thumbnail_alt
-  new_tab=include.new_tab
-  no_clamp=include.no_clamp
+  is_standalone_file=standalone_file
   is_lazy_loaded=include.is_lazy_loaded
 %}

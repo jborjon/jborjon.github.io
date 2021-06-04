@@ -1,12 +1,8 @@
 ---
 title: The Incredible Legacy of the Game-Changing ZX Spectrum
-layout: article
-article_type: post
 category: computer history
 featured_image: sinclair-zx-spectrum-48k.jpg
 featured_image_alt: A Sinclair ZX Spectrum computer
-thumbnail: sinclair-zx-spectrum-48k.jpg
-thumbnail_alt: A Sinclair ZX Spectrum computer
 ---
 
 Can you believe the Sinclair ZX Spectrum is approaching its fifth decade in existence?

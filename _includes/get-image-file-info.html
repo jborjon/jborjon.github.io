@@ -1,0 +1,21 @@
+{% comment %} Create base filenames for all image sizes {% endcomment %}
+{% assign image_file = site.static_files | where_exp: "file", "file.name == include.image_file" | first -%}
+{% if include.is_standalone_file %}
+  {% assign basename_size = image_file.basename | size | minus: 3 %} {% comment %} remove -sm or -xs so it works {% endcomment %}
+  {% assign image_basename = image_file.basename | slice: 0, basename_size %}
+{% else %}
+  {% assign image_basename = image_file.basename %}
+{% endif %}
+
+{% assign image_basename_xs = image_basename | append: "-xs" %}
+{% assign image_basename_sm = image_basename | append: "-sm" %}
+
+{% comment %} Assign the correct MIME type for the image {% endcomment %}
+{% case image_file.extname %}
+  {% when ".jpg" %}
+    {% assign file_type = "jpeg" %}
+  {% when ".svg" %}
+    {% assign file_type = "svg+xml" %}
+  {% else %}
+    {% assign file_type = image_file.extname | remove_first: "." %}
+{% endcase %}
