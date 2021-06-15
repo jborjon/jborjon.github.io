@@ -66,6 +66,7 @@ https://github.com/pure-css/pure/blob/master/LICENSE
   --content-width: 45em;
   --sans-serif-family: Verdana, Tahoma, Helvetica, Arial, sans-serif;
   --transition-duration: .15s;
+  --external-link-icon-size: .8em;
 }
 
 * {
@@ -134,12 +135,15 @@ input[type="email"] {
   font: .95em var(--sans-serif-family);
 }
 
-/*a[target="_blank"]::after {
-  margin-left: .15em;
+a[target="_blank"]::after {
+  display: inline-flex;
+  margin-left: .1em;
   content: "";
-  background-image: no-repeat url(/images/icons/external-link.svg);
-  background-size: 4em 1em;
-}*/
+  width: var(--external-link-icon-size);
+  height: var(--external-link-icon-size);
+  background-size: var(--external-link-icon-size) var(--external-link-icon-size);
+  background-image: url(/images/icons/external-link.svg);
+}
 
 .page-header {
   width: 100%;
