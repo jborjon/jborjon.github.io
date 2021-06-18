@@ -28,6 +28,8 @@ Suggestion to overcome friction to reading your page: offer something of value f
 
 At any rate, if you can teach your audience anything useful, do it. It makes for a very engaging About page. See this example: https://copyblogger.com/about/
 
+Maybe it could be an insight that comes from me only and not the competition; my way of seeing things. Or how I know the ins and outs of English better than native speakers because I have a different perspective. Typos jump out.
+
 Mention Spanish somewhere.
 
 ## For a Video
