@@ -21,13 +21,25 @@ input[type="email"] {
   align-items: baseline;
 }
 
+.portfolio-section-title {
+  margin-top: 1.5em;
+}
+
 .article-title {
-  margin-top: .3em;
+  margin: .3em auto .5em;
   font-size: 3em;
+}
+
+.article-category {
+  margin-top: 1.5em;
 }
 
 .article-category,
 .article-title,
 .word-count {
   text-align: center;
+}
+
+.featured-image {
+  margin-bottom: 1.7em;
 }
