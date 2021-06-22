@@ -286,6 +286,7 @@ main ul > li {
 }
 
 .word-count {
+  margin-top: .7em;
   color: var(--color-text-secondary);
   font-style: italic;
 }
