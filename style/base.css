@@ -95,6 +95,7 @@ main ol {
 }
 
 main h2 {
+  margin: .65em auto .65em;
   color: var(--color-brand);
   font-size: 1.8em;
 }
