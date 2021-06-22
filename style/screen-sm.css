@@ -16,3 +16,7 @@
 .blurb-clamped {
   -webkit-line-clamp: 2;
 }
+
+.featured-image {
+  margin-bottom: 1em;
+}

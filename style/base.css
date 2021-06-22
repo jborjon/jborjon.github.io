@@ -278,7 +278,7 @@ main ul > li {
 
 .article-category {
   margin: .5em auto .5em;
-  font-size: .95em;
+  font-size: .85em;
 }
 
 .article-title {
@@ -291,7 +291,7 @@ main ul > li {
 }
 
 .featured-image {
-  margin-bottom: 1em;
+  margin-bottom: .5em;
   width: 100%;
 }
 
