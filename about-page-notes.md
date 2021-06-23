@@ -12,7 +12,7 @@ Like any other article, use a benefit-driven headline. Say what you're good at t
 
 Get creative with your unique selling proposition, because there are a lot of freelance writers: success stories, data, statistics, unique abilities that benefit them (e.g. creating copy that gets readers to take definitive action), something unique you do to go above and beyond for clients, etc. Put it above the fold.
 
-Promise a solution to their challenges, from headline to CTA.
+Promise a solution to their challenges. What problem are they trying to solve? Fix that for them and convey it from headline to CTA.
 
 Show who you are and what you offer through an image (doesn't have to be your face).
 
