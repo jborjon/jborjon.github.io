@@ -32,6 +32,8 @@ Maybe it could be an insight that comes from me only and not the competition; my
 
 Mention Spanish somewhere.
 
+Don't tell them how awesome you are; tell them how awesome they can be through you.Tell them what jobs to be done you so
+
 ## For a Video
 
 "Hi. My name is ___ and I [value or selling proposition]."
