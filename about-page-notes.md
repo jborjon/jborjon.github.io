@@ -10,9 +10,11 @@ Be conversational and choose words that evoke emotion (e.g., *help* instead of *
 
 Like any other article, use a benefit-driven headline. Say what you're good at that sets you apart and can benefit the reader. You could also have a sub-headline that further explains your benefits to readers.
 
-Get creative with your unique selling proposition, because there are a lot of freelance writers: success stories, data, statistics, unique abilities that benefit them (e.g. creating copy that gets readers to take definitive action), something unique you do to go above and beyond for clients, etc. Put it above the fold.
+Get creative with your unique selling proposition, because there are a lot of freelance writers: success stories, data, statistics, unique abilities that benefit them (e.g. creating copy that gets readers to take definitive action), something unique you do to go above and beyond for clients, etc. Put it above the fold. Put it in terms of how it can help them solve the problem.
 
 Promise a solution to their challenges. What problem are they trying to solve? Fix that for them and convey it from headline to CTA.
+
+Most clients want to save time, money and effort, so show how you help with that.
 
 Show who you are and what you offer through an image (doesn't have to be your face).
 
@@ -32,7 +34,9 @@ Maybe it could be an insight that comes from me only and not the competition; my
 
 Mention Spanish somewhere.
 
-Don't tell them how awesome you are; tell them how awesome they can be through you.Tell them what jobs to be done you so
+Don't tell them how awesome you are; tell them how awesome they can be through you. Tell them what jobs to be done you solve.
+
+Share your personality type (the rarest type!).
 
 ## For a Video
 
