@@ -32,11 +32,13 @@ At any rate, if you can teach your audience anything useful, do it. It makes for
 
 Maybe it could be an insight that comes from me only and not the competition; my way of seeing things. Or how I know the ins and outs of English better than native speakers because I have a different perspective. Typos jump out.
 
-Mention Spanish somewhere.
+Mention Spanish somewhere. Bilingual proficiency, can work the same magic in both.
 
 Don't tell them how awesome you are; tell them how awesome they can be through you. Tell them what jobs to be done you solve.
 
-Share your personality type (the rarest type!).
+Share your personality type (I'm the rarest type!) and its strengths.
+
+"It's not only about being proficient with grammar" (which I am, maybe give hard data from a test), but it's also about crafting a message that touches the reader' emotions and gets people to take action.
 
 ## For a Video
 
