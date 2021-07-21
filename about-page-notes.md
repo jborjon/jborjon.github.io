@@ -49,3 +49,7 @@ Videos build trust, reduce friction to reading the page, and can increase conver
 To optimize video: https://www.keycdn.com/blog/video-optimization
 
 How to embed native video properly: https://medium.com/canal-tech/how-video-streaming-works-on-the-web-an-introduction-7919739f7e1
+
+# Additional ideas
+
+One way of providing value would be to reference [this study](https://www.forbes.com/sites/cherylsnappconner/2013/03/11/report-how-grammar-influences-your-income/?sh=215b4f2513dd) and so teach them the cost of bad grammar, then show that I can fix it help you get ahead in your career. Heck, that can be a business in itself. Although, beware of correlation vs. causation. (Definitely add grammar and spell correction as a service.)
