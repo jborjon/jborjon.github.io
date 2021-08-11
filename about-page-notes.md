@@ -1,7 +1,7 @@
 ## To answer:
 
 1. What's my *why?*
-2. What's my unique value proposition?
+2. What's my unique value proposition, or what pain do I solve, especially at their struggling moment that makes them decide to look for a copywriter? Talk to them at that moment. (specific, not general: Not "Do your taxes faster," but "Never worry about fitting in taxes in your busy life again." Try a few, see what people think. Copy written "in their words" is best-performing.)
 3. What's my struggle-to-success story that affects the reader?
 
 ## Overview
@@ -47,6 +47,10 @@ Share your personality type (I'm the rarest type!) and its strengths.
 "It's not only about being proficient with grammar" (which I am, maybe give hard data from a test), but it's also about crafting a message that touches your readers' emotions and gets them to take action."
 
 "How do you know you're doing it right? Let an expert do it for you."
+
+"You're putting your first impression out there. Let me skillfully craft it for you." (idea from https://designpowers.com/blog/4-reasons-to-hire-a-professional-content-writer)
+
+"The better your content, the more engaged your visitors are, and the more likely they'll become paying customers." (idea from https://designpowers.com/blog/4-reasons-to-hire-a-professional-content-writer)
 
 ## For a Video
 
