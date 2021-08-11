@@ -1,3 +1,9 @@
+## To answer:
+
+1. What's my *why?*
+2. What's my unique value proposition?
+3. What's my struggle-to-success story that affects the reader?
+
 ## Overview
 
 Connect by creating a story---start with *why*. Usually, you tell your journey from struggle to success. Storytelling boosts conversion rates. Avoid self-praise.
@@ -38,7 +44,9 @@ Don't tell them how awesome you are; tell them how awesome they can be through y
 
 Share your personality type (I'm the rarest type!) and its strengths.
 
-"It's not only about being proficient with grammar" (which I am, maybe give hard data from a test), but it's also about crafting a message that touches the reader' emotions and gets people to take action.
+"It's not only about being proficient with grammar" (which I am, maybe give hard data from a test), but it's also about crafting a message that touches your readers' emotions and gets them to take action."
+
+"How do you know you're doing it right? Let an expert do it for you."
 
 ## For a Video
 
