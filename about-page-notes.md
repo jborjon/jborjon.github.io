@@ -52,6 +52,8 @@ Share your personality type (I'm the rarest type!) and its strengths.
 
 "The better your content, the more engaged your visitors are, and the more likely they'll become paying customers." (idea from https://designpowers.com/blog/4-reasons-to-hire-a-professional-content-writer)
 
+"I have ae purpose for every single word. No fluff. Efficiency."
+
 ## For a Video
 
 "Hi. My name is ___ and I [value or selling proposition]."
