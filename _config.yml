@@ -19,7 +19,6 @@ defaults:
 exclude:
   - favicons/favicon.xcf
   - images/original/
-  - images/icons/
   - scripts/unminified/
 
 compress_html:
