@@ -5,9 +5,13 @@ search: exclude
 
 ## To answer:
 
-1. What's my *why?*
+1. What's my *why,* my undying belief in a purpose or cause bigger than myself? Ideas: To empower individuals through top [percentile of my writing skills] writing, making it so time and lack of writing mastery aren't an obstacle for creators and business owners, thus improving the economy for everyone.
+
 2. What's my unique value proposition, or what pain do I solve, especially at their struggling moment that makes them decide to look for a copywriter? Talk to them at that moment. (specific, not general: Not "Do your taxes faster," but "Never worry about fitting in taxes in your busy life again." Try a few, see what people think. Copy written "in their words" is best-performing.)
-3. What's my struggle-to-success story that affects the reader?
+
+3. What's my struggle-to-success story that affects the reader? Mastering English, starting the struggle at a young age.
+
+
 
 ## Overview
 
@@ -49,6 +53,8 @@ Don't tell them how awesome you are; tell them how awesome they can be through y
 
 Share your personality type (I'm the rarest type!) and its strengths.
 
+Do show that your service is amazing and high-quality. Starting with why and a struggle story are fantastic, but they don't help if your offer isn't top-notch.
+
 "It's not only about being proficient with grammar" (which I am, maybe give hard data from a test), but it's also about crafting a message that touches your readers' emotions and gets them to take action."
 
 "How do you know you're doing it right? Let an expert do it for you."
@@ -59,9 +65,13 @@ Share your personality type (I'm the rarest type!) and its strengths.
 
 "I have ae purpose for every single word. No fluff. Efficiency."
 
+
+
 # Additional ideas
 
 One way of providing value would be to reference [this study](https://www.forbes.com/sites/cherylsnappconner/2013/03/11/report-how-grammar-influences-your-income/?sh=215b4f2513dd) and so teach them the cost of bad grammar, then show that I can fix it help you get ahead in your career. Heck, that can be a business in itself. Although, beware of correlation vs. causation. (Definitely add grammar and spell correction as a service.)
+
+
 
 ## For a Video
 
