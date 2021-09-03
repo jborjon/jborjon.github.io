@@ -3,6 +3,10 @@ layout: null
 search: exclude
 ---
 
+"Go run your business while I take care of your copy."
+
+
+
 ## To answer:
 
 1. What's my *why,* my undying belief in a purpose or cause bigger than myself? Ideas: To empower individuals through top [percentile of my writing skills] writing, making it so time and lack of writing mastery aren't an obstacle for creators and business owners, thus improving the economy for everyone.
