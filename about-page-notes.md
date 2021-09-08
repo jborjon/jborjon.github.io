@@ -3,7 +3,16 @@ layout: null
 search: exclude
 ---
 
-"Go run your business while I take care of your copy."
+# How You Can Leverage My Brain to... (maybe too pushy)
+
+
+
+"Go run your business. I'll take care of your copy."
+
+Helped some 300 clients to improve their personal brand to advance their careers through writing.
+
+Jerusha's suggestions: let them know I have a wife and two children and run a business.
+
 
 
 
@@ -18,6 +27,8 @@ search: exclude
 
 
 ## Overview
+
+Main focus: how you solve a problem for the customer.
 
 Connect by creating a story---start with *why*. Usually, you tell your journey from struggle to success. Storytelling boosts conversion rates. Avoid self-praise.
 
