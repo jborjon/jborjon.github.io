@@ -17,6 +17,7 @@ defaults:
       article_type: post
 
 exclude:
+  - notes/
   - favicons/favicon.xcf
   - images/original/
   - scripts/unminified/

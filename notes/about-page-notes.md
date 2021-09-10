@@ -3,26 +3,9 @@ layout: null
 search: exclude
 ---
 
+—
+
 # How You Can Leverage My Brain to... (maybe too pushy; focus on being conversational and transparent, not salesy)
-
-
-Growing up in Chile as a Chilean-American, I daydreamed of writing captivating fiction and nonfiction one day, dazzling audiences with my mastery of the English language.
-
-But there was one problem: I didn't speak English.
-
-I moved to the United States when I was 18, knowing that the language would be a struggle, but not knowing to what extent.
-
-Yet I was determined to master the language, no matter what it took.
-
-The first year was rough. At my first job, HR got involved when I offended a coworker because the word I used didn't mean what I thought it meant. I was too embarrassed to admit to a language deficiency, so I just promised it wouldn't happen again.
-
-
-
-[Aha! moment]
-
-
-
-
 
 "Go run your business. I'll take care of your copy."
 
@@ -30,7 +13,48 @@ Helped some 300 clients to improve their personal brand to advance their careers
 
 Jerusha's suggestions: let them know I have a wife and two children and run a business.
 
-Read the King James version of the Bible all the way through; first book in English was *Jurassic Park.*
+
+
+
+Hi, I'm Joseph, and I live, breathe, and dream writing so you can focus on running your business without ever worrying about your content again.
+
+I don't want you to struggle the same way I did [go into story].
+
+## My Story
+
+Growing up in Chile as a Chilean-American, I daydreamed of writing captivating fiction and nonfiction one day. I saw myself dazzling audiences with my magnificent command of the English language.
+
+But there was one problem: I didn't speak English.
+
+Maybe some, but not enough to hold a conversation.
+
+My teachers were always kind enough to commend my vocabulary and grammar in Spanish. *One day,* I told myself (in Spanish), *I'll use English at the same level—maybe even better.*
+
+I was too young to know how thorny that would prove. So, when I was 18, I embraced my American nationality and moved to the US.
+
+The first years were rough. At my first job, HR got involved when I offended a coworker because the word I used didn't mean what I thought it meant. I was too embarrassed to admit to a language deficiency, so I just promised it wouldn't happen again.
+
+Mistakes and misunderstandings were common. For all my efforts, this English thing wasn't coming along.
+
+Could I really do it?
+
+Little by uphill little, people started noticing my language abilities. First, my college professors: a Ph.D. in English, a professional journalist, a theater practitioner.
+
+Then, a couple of working screenwriters and a published author, among others.
+
+Today, I've read the King James Bible (the version that sounds like Shakespeare) from cover to cover, understanding every word. Beyond my work, I've written legal documents, screenplays, and poetry that have moved people or impelled them to action.
+
+Few things give me more satisfaction—that deep, soul-enlarging satisfaction—than writing a well-researched, airtight piece, ready to influence the reader.
+
+In English. Or Spanish. It's all the same to me.
+
+## Let's Connect
+
+Do you click with what I've shared with you? Do you have any questions about me? [Drop me a line](/contact) and I'll be in touch.
+
+
+
+
 
 
 
@@ -96,13 +120,13 @@ Do show that your service is amazing and high-quality. Starting with why and a s
 
 "The better your content, the more engaged your visitors are, and the more likely they'll become paying customers." (idea from https://designpowers.com/blog/4-reasons-to-hire-a-professional-content-writer)
 
-"I have ae purpose for every single word. No fluff. Efficiency."
+"I have a purpose for every single word. No fluff. Efficiency."
 
 
 
 # Additional ideas
 
-One way of providing value would be to reference [this study](https://www.forbes.com/sites/cherylsnappconner/2013/03/11/report-how-grammar-influences-your-income/?sh=215b4f2513dd) and so teach them the cost of bad grammar, then show that I can fix it help you get ahead in your career. Heck, that can be a business in itself. Although, beware of correlation vs. causation. (Definitely add grammar and spell correction as a service.)
+One way of providing value would be to reference [this study](https://www.forbes.com/sites/cherylsnappconner/2013/03/11/report-how-grammar-influences-your-income/?sh=215b4f2513dd) and so teach them the cost of bad grammar, then show that I can fix it to help you get ahead in your career. Heck, that can be a business in itself. Although, beware of correlation vs. causation. (Definitely add grammar and spell correction as a service.)
 
 
 
