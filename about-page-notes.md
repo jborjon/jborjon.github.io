@@ -3,7 +3,24 @@ layout: null
 search: exclude
 ---
 
-# How You Can Leverage My Brain to... (maybe too pushy)
+# How You Can Leverage My Brain to... (maybe too pushy; focus on being conversational and transparent, not salesy)
+
+
+Growing up in Chile as a Chilean-American, I daydreamed of writing captivating fiction and nonfiction one day, dazzling audiences with my mastery of the English language.
+
+But there was one problem: I didn't speak English.
+
+I moved to the United States when I was 18, knowing that the language would be a struggle, but not knowing to what extent.
+
+Yet I was determined to master the language, no matter what it took.
+
+The first year was rough. At my first job, HR got involved when I offended a coworker because the word I used didn't mean what I thought it meant. I was too embarrassed to admit to a language deficiency, so I just promised it wouldn't happen again.
+
+
+
+[Aha! moment]
+
+
 
 
 
@@ -13,6 +30,7 @@ Helped some 300 clients to improve their personal brand to advance their careers
 
 Jerusha's suggestions: let them know I have a wife and two children and run a business.
 
+Read the King James version of the Bible all the way through; first book in English was *Jurassic Park.*
 
 
 
