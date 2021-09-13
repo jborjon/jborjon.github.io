@@ -3,7 +3,6 @@ layout: null
 search: exclude
 ---
 
-—
 
 # How You Can Leverage My Brain to... (maybe too pushy; focus on being conversational and transparent, not salesy)
 
@@ -18,6 +17,8 @@ Jerusha's suggestions: let them know I have a wife and two children and run a bu
 
 Hi, I'm Joseph, and I live, breathe, and dream writing so you can focus on running your business without ever worrying about your content again.
 
+If subpar grammar could be [costing you business opportunities](https://hbr.org/2013/03/good-grammar-should-be-everyon), can you imagine what publishing lackluster content could be doing for your reputation?
+
 I don't want you to struggle the same way I did [go into story].
 
 ## My Story
@@ -28,7 +29,9 @@ But there was one problem: I didn't speak English.
 
 Maybe some, but not enough to hold a conversation.
 
-My teachers were always kind enough to commend my vocabulary and grammar in Spanish. *One day,* I told myself (in Spanish), *I'll use English at the same level—maybe even better.*
+My teachers were always kind enough to commend my squeaky-clean grammar and rich vocabulary in Spanish.
+
+*One day,* I told myself (in Spanish), *I'll use English at the same level---or even better.*
 
 I was too young to know how thorny that would prove. So, when I was 18, I embraced my American nationality and moved to the US.
 
@@ -38,15 +41,17 @@ Mistakes and misunderstandings were common. For all my efforts, this English thi
 
 Could I really do it?
 
-Little by uphill little, people started noticing my language abilities. First, my college professors: a Ph.D. in English, a professional journalist, a theater practitioner.
+Inch by inch, people started noticing my grammar, spelling, storytelling, and persuasive abilities. First, my college professors: a Ph.D. in English, a professional journalist, a theater practitioner.
 
 Then, a couple of working screenwriters and a published author, among others.
 
-Today, I've read the King James Bible (the version that sounds like Shakespeare) from cover to cover, understanding every word. Beyond my work, I've written legal documents, screenplays, and poetry that have moved people or impelled them to action.
+Today, I've read the King James Bible (the version that sounds like Shakespeare) from cover to cover, understanding every word. Beyond content and copy, I've written legal documents, screenplays, and poetry that have moved people or impelled them to action.
 
-Few things give me more satisfaction—that deep, soul-enlarging satisfaction—than writing a well-researched, airtight piece, ready to influence the reader.
+I often hear from people some variation of, "Wow, I never would have realized English wasn't your first language!"
 
-In English. Or Spanish. It's all the same to me.
+Few things give me more satisfaction---that deep, soul-enlarging gratification---than writing a well-researched, airtight piece, ready to influence the reader, to change her life in some small way. Life is good when I get to write.
+
+In English. Or Spanish. They're both the same.
 
 ## Let's Connect
 
@@ -126,7 +131,7 @@ Do show that your service is amazing and high-quality. Starting with why and a s
 
 # Additional ideas
 
-One way of providing value would be to reference [this study](https://www.forbes.com/sites/cherylsnappconner/2013/03/11/report-how-grammar-influences-your-income/?sh=215b4f2513dd) and so teach them the cost of bad grammar, then show that I can fix it to help you get ahead in your career. Heck, that can be a business in itself. Although, beware of correlation vs. causation. (Definitely add grammar and spell correction as a service.)
+One way of providing value would be to reference [this study](https://hbr.org/2013/03/good-grammar-should-be-everyon) and so teach them the cost of bad grammar, then show that I can fix it to help you get ahead in your career. Heck, that can be a business in itself. Although, beware of correlation vs. causation. (Definitely add grammar and spell correction as a service.)
 
 
 
