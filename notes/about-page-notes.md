@@ -65,7 +65,7 @@ Do you click with what I've shared with you? Do you have any questions about me?
 
 ## To answer:
 
-1. What's my *why,* my undying belief in a purpose or cause bigger than myself? Ideas: To empower individuals through top [percentile of my writing skills] writing, making it so time and lack of writing mastery aren't an obstacle for creators and business owners, thus improving the economy for everyone.
+1. What's my *why,* my undying belief in a purpose or cause bigger than myself? Ideas: To empower individuals and businesses through top [percentile of my writing skills] writing, making it so time and lack of writing mastery aren't an obstacle for creators and business owners, thus improving the economy for everyone.
 
 2. What's my unique value proposition, or what pain do I solve, especially at their struggling moment that makes them decide to look for a copywriter? Talk to them at that moment. (specific, not general: Not "Do your taxes faster," but "Never worry about fitting in taxes in your busy life again." Try a few, see what people think. Copy written "in their words" is best-performing.)
 
