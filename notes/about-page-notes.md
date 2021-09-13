@@ -35,7 +35,7 @@ My teachers were always kind enough to commend my squeaky-clean grammar and rich
 
 I was too young to know how thorny that would prove. So, when I was 18, I embraced my American nationality and moved to the US.
 
-The first years were rough. At my first job, HR got involved when I offended a coworker because the word I used didn't mean what I thought it meant. I was too embarrassed to admit to a language deficiency, so I just promised it wouldn't happen again.
+The first years were rough. At my first job in the States, HR got involved when I offended a coworker because the word I used didn't mean what I thought it meant. I was too embarrassed to admit to a language deficiency, so I just promised it wouldn't happen again.
 
 Mistakes and misunderstandings were common. For all my efforts, this English thing wasn't coming along.
 
@@ -49,7 +49,7 @@ Today, I've read the King James Bible (the version that sounds like Shakespeare)
 
 I often hear from people some variation of, "Wow, I never would have realized English wasn't your first language!"
 
-Few things give me more satisfaction---that deep, soul-enlarging gratification---than writing a well-researched, airtight piece, ready to influence the reader's life in some small way. Life is good when I get to write.
+Few things give me more satisfaction---that deep, soul-enlarging gratification---than writing a well-researched, airtight piece, ready to influence the reader's life in some way. Life is good when I get to write.
 
 In English. Or Spanish. They're both the same.
 
