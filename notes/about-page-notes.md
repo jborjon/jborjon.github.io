@@ -49,7 +49,7 @@ Today, I've read the King James Bible (the version that sounds like Shakespeare)
 
 I often hear from people some variation of, "Wow, I never would have realized English wasn't your first language!"
 
-Few things give me more satisfaction---that deep, soul-enlarging gratification---than writing a well-researched, airtight piece, ready to influence the reader, to change her life in some small way. Life is good when I get to write.
+Few things give me more satisfaction---that deep, soul-enlarging gratification---than writing a well-researched, airtight piece, ready to influence the reader's life in some small way. Life is good when I get to write.
 
 In English. Or Spanish. They're both the same.
 
