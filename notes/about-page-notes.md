@@ -31,7 +31,7 @@ Maybe some, but not enough to hold a conversation.
 
 My teachers were always kind enough to commend my squeaky-clean grammar and rich vocabulary in Spanish.
 
-*One day,* I told myself (in Spanish), *I'll use English at the same level---or even better.*
+*One day,* I told myself (yes, in Spanish), *I'll use English at the same level---or even better.*
 
 I was too young to know how thorny that would prove. So, when I was 18, I embraced my American nationality and moved to the US.
 
