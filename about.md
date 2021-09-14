@@ -4,11 +4,9 @@ layout: info-page
 id: about
 ---
 
-<div markdown="1">
-
 ## My Story
 
-Growing up in Chile as a Chilean-American, I daydreamed of writing captivating fiction and nonfiction one day. I saw myself dazzling audiences with my magnificent command of the English language.
+Growing up in Chile as a Chilean-American, I daydreamed of writing captivating publications and stories one day. I saw myself dazzling audiences with my magnificent command of the English language.
 
 But there was one problem: I didn't speak English.
 
@@ -41,4 +39,3 @@ In English. Or Spanish. They're both the same.
 ## Let's Connect
 
 Do you click with what I've shared with you? Do you have any questions about me? [Drop me a line](/contact) and I'll be in touch.
-</div>

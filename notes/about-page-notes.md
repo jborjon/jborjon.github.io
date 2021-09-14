@@ -13,21 +13,25 @@ Jerusha's suggestions: let them know I have a wife and two children and run a bu
 
 
 
-Hi, I'm Joseph, and I live, breathe, and dream writing so you can focus on running your business without ever worrying about your content again.
+Hi, I'm Joseph. I live, breathe, and dream writing so you can focus on running your business without ever worrying about your content again.
+
+Because of my peculiar journey, I believe it's my duty to empower people through my hard-won writing mastery, because a lack of time or inclination to write shouldn't be an obstacle to your goals.
+
+## Background
 
 Through writing, I've helped some 300 clients improve their personal brand and advance their careers.
+
+[Bachelor's degree and data science studies]
 
 [Why I do it]
 
 [Unique value proposition.]
 
-If subpar grammar could be [costing you business opportunities](https://hbr.org/2013/03/good-grammar-should-be-everyon), can you imagine what publishing lackluster content could be doing for your reputation?
-
 I don't want you to struggle the same way I did [go into story].
 
 ## My Story
 
-Growing up in Chile as a Chilean-American, I daydreamed of writing captivating fiction and nonfiction one day. I saw myself dazzling audiences with my magnificent command of the English language.
+Growing up in Chile as a Chilean-American, I daydreamed of writing captivating publications and stories one one day. I saw myself dazzling audiences with my magnificent command of the English language.
 
 But there was one problem: I didn't speak English.
 
@@ -35,23 +39,23 @@ Maybe some, but not enough to hold a conversation.
 
 In school, my teachers were always kind enough to commend my squeaky-clean grammar and rich vocabulary in Spanish.
 
-*One day,* I told myself (yes, in Spanish), *I'll use English at the same level---or even better.*
+*One day,* I told myself (in Spanish, of course), *I'll use English at the same level---or even better.*
 
 I was too young to know how thorny that would prove. So, when I was 18, I capitalized on my American nationality and moved to the US.
 
 The first years were rough. At my first job in the States, HR got involved when I offended a coworker because the word I used didn't mean what I thought it meant. I was too embarrassed to admit to a language deficiency, so I just promised it wouldn't happen again.
 
-Mistakes and misunderstandings were common. For all my efforts, this English thing wasn't coming along.
+Mistakes and misunderstandings were daily situations. For all my efforts, this English thing wasn't coming along.
 
 Could I really do it?
 
-Inch by inch, people started noticing my grammar, spelling, storytelling, and persuasive abilities. First, my college professors: a Ph.D. in English, a professional journalist, a theater practitioner.
+Inch by inch, people started noticing my grammar, spelling, persuasive, and storytelling abilities. First, my college professors: a Ph.D. in English, a professional journalist, a theater practitioner.
 
 Then, a couple of working screenwriters and a published author, among others.
 
-Today, I've read the King James Bible (the version that sounds like Shakespeare) from cover to cover, understanding every word. Beyond content and copy, I've written legal documents, screenplays, and poetry that have moved people or impelled them to action.
+Today, I'm known as a captivating writer with a wacky knack for spotting typos out of the corner of my eye. When I reveal my origin, people often say some variation of, "Wow, I never would have realized English wasn't your first language!"
 
-I often hear from people some variation of, "Wow, I never would have realized English wasn't your first language!"
+I've even read the King James Bible (the version that sounds Shakespearean) from cover to cover, understanding everything. Beyond content and copy, I've written legal documents, screenplays, and poetry that have moved people or impelled them to action.
 
 Few things give me more satisfaction---that deep, soul-enlarging gratification---than writing a well-researched, airtight piece, ready to influence the reader's life in some way. Life is good when I get to write.
 
@@ -133,9 +137,12 @@ Do show that your service is amazing and high-quality. Starting with why and a s
 
 
 
+
 # Additional ideas
 
 One way of providing value would be to reference [this study](https://hbr.org/2013/03/good-grammar-should-be-everyon) and so teach them the cost of bad grammar, then show that I can fix it to help you get ahead in your career. Heck, that can be a business in itself. Although, beware of correlation vs. causation. (Definitely add grammar and spell correction as a service.)
+
+"If subpar grammar could be [limiting your business opportunities](https://hbr.org/2013/03/good-grammar-should-be-everyon), can you imagine what publishing lackluster content could be doing for your reputation?"
 
 
 
