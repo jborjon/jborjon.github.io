@@ -6,9 +6,7 @@ search: exclude
 
 # How You Can Leverage My Brain to... (maybe too pushy; focus on being conversational and transparent, not salesy)
 
-"Go run your business. I'll take care of your copy."
-
-Helped some 300 clients to improve their personal brand to advance their careers through writing.
+Go run your business. I'll take care of your copy.
 
 Jerusha's suggestions: let them know I have a wife and two children and run a business.
 
@@ -16,6 +14,12 @@ Jerusha's suggestions: let them know I have a wife and two children and run a bu
 
 
 Hi, I'm Joseph, and I live, breathe, and dream writing so you can focus on running your business without ever worrying about your content again.
+
+Through writing, I've helped some 300 clients improve their personal brand and advance their careers.
+
+[Why I do it]
+
+[Unique value proposition.]
 
 If subpar grammar could be [costing you business opportunities](https://hbr.org/2013/03/good-grammar-should-be-everyon), can you imagine what publishing lackluster content could be doing for your reputation?
 
@@ -29,11 +33,11 @@ But there was one problem: I didn't speak English.
 
 Maybe some, but not enough to hold a conversation.
 
-My teachers were always kind enough to commend my squeaky-clean grammar and rich vocabulary in Spanish.
+In school, my teachers were always kind enough to commend my squeaky-clean grammar and rich vocabulary in Spanish.
 
 *One day,* I told myself (yes, in Spanish), *I'll use English at the same level---or even better.*
 
-I was too young to know how thorny that would prove. So, when I was 18, I embraced my American nationality and moved to the US.
+I was too young to know how thorny that would prove. So, when I was 18, I capitalized on my American nationality and moved to the US.
 
 The first years were rough. At my first job in the States, HR got involved when I offended a coworker because the word I used didn't mean what I thought it meant. I was too embarrassed to admit to a language deficiency, so I just promised it wouldn't happen again.
 
