@@ -16,19 +16,23 @@ Hi, I'm Joseph. I live, breathe, and dream writing so you can focus on running y
 
 Thanks to my crazy journey, I believe it's now my duty to empower people through first-rate writing, because I want them to crush their goals even if they don't have the time or inclination to write.
 
-I delight in creating first-rate content that gets readers to take definitive action. I love to use my [storytelling](https://hbr.org/2011/03/using-stories-as-a-tool-of-per) experience to persuade. Every word and phrase I write has a psychological reason behind it; I write no fluff.
+I delight in creating first-rate content that gets readers to take action. I love to use my [storytelling](https://hbr.org/2011/03/using-stories-as-a-tool-of-per) expertise to persuade.
 
-## The Background
+## My Background
 
-Through my writing, I've helped some 300 clients---from college students to CEOs---throughout the US improve their personal brands and advance their careers. I've written content for several online publications on business, technology, health, career strategy, and other topics.
+Through my writing, I've helped some 300 clients---from students to CEOs---across the US advance their careers. I've written content for several online publications on business, technology, health, career strategy, and other topics.
 
-I have a bachelor's degree in business management from Brigham Young University--Idaho. I also studied computer science and data science at BYU-I.
+I have a B.S. in business management and lots of computer and data science credits from BYU-Idaho.
 
-Through experience, I've learned that being proficient with grammar isn't enough to be a good writer. The most important thing is being able to craft a message that resonates with readers' reason and emotions, and gets them to take action.
+I'm blessed with a gift for grammar and spelling; I often spot errors out of the corner of my eye. I have native fluency in English and Spanish.
 
-## The Story
+But I've learned that *rules alone don't make a great writer.* What does is the ability to craft a message that resonates with readers and gets them to take action.
 
-Growing up in Chile as a Chilean-American, I daydreamed of writing captivating publications and stories one one day. I saw myself dazzling audiences with my magnificent command of the English language.
+That's my focus.
+
+## My Story
+
+Growing up in Chile as a Chilean-American, I daydreamed of writing captivating publications and stories one day. I saw myself dazzling audiences with my magnificent command of the English language.
 
 But there was one problem: I didn't speak English.
 
@@ -58,15 +62,13 @@ Few things give me more satisfaction---that deep, soul-enlarging gratification--
 
 In English. Or Spanish. They're both the same.
 
-## More About Me
+## Trivia
 
-Myers-Briggs says I'm an INFJ, the rarest personality type. That makes sense: I'm a full-time introvert with polished social skills and an intuition about what's in other people's minds.
-
-I also have perfect pitch---but don't ask me to play any instruments.
+Myers-Briggs says I'm an INFJ, the rarest personality type: I'm an intellectual with emotional acuity. I also have perfect pitch---but don't ask me to play any instruments.
 
 ## Let's Connect
 
-Do you click with what I've shared with you? Do you have any questions about me? [Drop me a line](/contact) and I'll be in touch.
+Do you click with what I've shared with you? Have any questions? [Drop me a line](/contact) and I'll be in touch.
 
 
 
