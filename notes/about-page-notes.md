@@ -3,33 +3,30 @@ layout: null
 search: exclude
 ---
 
-
-# How You Can Leverage My Brain to... (maybe too pushy; focus on being conversational and transparent, not salesy)
-
 Go run your business. I'll take care of your copy.
 
-Jerusha's suggestions: let them know I have a wife and two children and run a business.
+Girl's suggestions: let them know I have a wife and children and run a business.
 
 
 
 
-Hi, I'm Joseph. I live, breathe, and dream writing so you can focus on running your business without ever worrying about your content again.
+# "About: How to Leverage My Brain to Get Amazing Content" (Maybe too pushy? Focus on being conversational and transparent, not salesy)
 
-Because of my peculiar journey, I believe it's my duty to empower people through my hard-won writing mastery, because a lack of time or inclination to write shouldn't be an obstacle to your goals.
+Hi, I'm Joseph. I live, breathe, and dream writing so you can focus on running your business without ever worrying about your content.
 
-## Background
+Thanks to my crazy journey, I believe it's now my duty to empower people through first-rate writing, because I want them to crush their goals even if they don't have the time or inclination to write.
 
-Through writing, I've helped some 300 clients improve their personal brand and advance their careers.
+I delight in creating first-rate content that gets readers to take definitive action. I love to use my [storytelling](https://hbr.org/2011/03/using-stories-as-a-tool-of-per) experience to persuade. Every word and phrase I write has a psychological reason behind it; I write no fluff.
 
-[Bachelor's degree and data science studies]
+## The Background
 
-[Why I do it]
+Through my writing, I've helped some 300 clients---from college students to CEOs---throughout the US improve their personal brands and advance their careers. I've written content for several online publications on business, technology, health, career strategy, and other topics.
 
-[Unique value proposition.]
+I have a bachelor's degree in business management from Brigham Young University--Idaho. I also studied computer science and data science at BYU-I.
 
-I don't want you to struggle the same way I did [go into story].
+Through experience, I've learned that being proficient with grammar isn't enough to be a good writer. The most important thing is being able to craft a message that resonates with readers' reason and emotions, and gets them to take action.
 
-## My Story
+## The Story
 
 Growing up in Chile as a Chilean-American, I daydreamed of writing captivating publications and stories one one day. I saw myself dazzling audiences with my magnificent command of the English language.
 
@@ -60,6 +57,12 @@ I've even read the King James Bible (the version that sounds Shakespearean) from
 Few things give me more satisfaction---that deep, soul-enlarging gratification---than writing a well-researched, airtight piece, ready to influence the reader's life in some way. Life is good when I get to write.
 
 In English. Or Spanish. They're both the same.
+
+## More About Me
+
+Myers-Briggs says I'm an INFJ, the rarest personality type. That makes sense: I'm a full-time introvert with polished social skills and an intuition about what's in other people's minds.
+
+I also have perfect pitch---but don't ask me to play any instruments.
 
 ## Let's Connect
 
