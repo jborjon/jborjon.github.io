@@ -1,7 +1,7 @@
 ---
 title: French-Style Artisan Sourdough Bread
 article_type: product_description
-category: food
+category: Food
 featured_image: bread-boule-sliced.jpg
 featured_image_alt: A bread boule sliced in half
 ---

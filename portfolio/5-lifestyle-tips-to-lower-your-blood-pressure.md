@@ -1,6 +1,6 @@
 ---
 title: 5 Lifestyle Tips to Lower Your Blood Pressure
-category: health and wellness
+category: Health and wellness
 layout: article
 article_type: post
 featured_image: woman-jogging.jpg

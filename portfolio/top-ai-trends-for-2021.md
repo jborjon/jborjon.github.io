@@ -1,6 +1,6 @@
 ---
 title: Top AI Trends for 2021
-category: tech in business
+category: Tech in business
 featured_image: matrix-screen.jpg
 featured_image_alt: A screenshot from a screen in the style of the film The Matrix
 ---

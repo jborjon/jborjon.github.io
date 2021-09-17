@@ -1,6 +1,6 @@
 ---
 title: The Incredible Legacy of the Game-Changing ZX Spectrum
-category: computer history
+category: Computer history
 featured_image: sinclair-zx-spectrum-48k.jpg
 featured_image_alt: A Sinclair ZX Spectrum computer
 ---

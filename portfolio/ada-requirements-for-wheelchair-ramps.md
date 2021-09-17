@@ -1,6 +1,6 @@
 ---
 title: ADA Requirements for Wheelchair Ramps and How to Meet Standards
-category: business regulations
+category: Business regulations
 featured_image: international-symbol-of-accessibility.jpg
 featured_image_alt: The International Symbol of Accessibility
 ---

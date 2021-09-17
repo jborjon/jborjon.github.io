@@ -1,6 +1,6 @@
 ---
 title: "Troubleshooting: How to Debug Microservices on Kubernetes"
-category: software development
+category: Software development
 featured_image: shipping-containers.jpg
 featured_image_alt: Stacked shipping containers at a port
 ---

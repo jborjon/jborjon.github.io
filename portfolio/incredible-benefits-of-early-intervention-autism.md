@@ -1,6 +1,6 @@
 ---
 title: The Incredible Benefits of Early Intervention for Children With Autism
-category: health and wellness
+category: Mental health
 featured_image: happy-child.jpg
 featured_image_alt: A smiling child
 ---

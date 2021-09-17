@@ -1,6 +1,6 @@
 ---
 title: How Do I Know What to Include in My Resume and What to Leave Out?
-category: career strategy
+category: Career strategy
 featured_image: woman-at-crossroads.jpg
 featured_image_alt: A woman walking into a crossroads
 ---

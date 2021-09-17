@@ -1,6 +1,6 @@
 ---
 title: How to Write Marketing Blog Posts Your Clients Will Actually Read
-category: marketing
+category: Marketing
 featured_image: woman-writing-on-laptop.jpg
 featured_image_alt: A woman writing on a laptop computer
 ---

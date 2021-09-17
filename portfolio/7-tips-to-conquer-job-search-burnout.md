@@ -1,6 +1,6 @@
 ---
 title: 7 Tips to Conquer Job-Search Burnout
-category: career strategy
+category: Career strategy
 featured_image: man-in-despair.jpg
 featured_image_alt: A man holding his face in despair
 ---

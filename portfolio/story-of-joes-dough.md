@@ -1,7 +1,7 @@
 ---
 title: The Story of Joe’s Dough
 article_type: company_story
-category: food
+category: Food
 featured_image: baker-with-bread-boule.jpg
 featured_image_alt: A baker with a rye bread boule
 ---

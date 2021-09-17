@@ -1,6 +1,6 @@
 ---
 title: "Take the Cloud With You: A Guide to Edge Computing"
-category: tech in business
+category: Tech in business
 featured_image: woman-with-tablet.jpg
 featured_image_alt: A woman touching a mobile tablet screen
 ---

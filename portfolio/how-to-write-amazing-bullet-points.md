@@ -1,6 +1,6 @@
 ---
 title: How to Write Amazing Resume Bullet Points that Get You Interviews [Guide]
-category: career strategy
+category: Career strategy
 featured_image: handshake.jpg
 featured_image_alt: A handshake
 ---

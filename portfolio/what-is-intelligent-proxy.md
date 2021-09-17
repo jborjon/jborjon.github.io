@@ -1,6 +1,6 @@
 ---
 title: What Is the Intelligent Proxy and Can It Stop Malicious Attacks?
-category: tech in business
+category: Tech in business
 featured_image: stirling-castle.jpg
 featured_image_alt: Stirling Castle in Stirling, Scotland
 ---
