@@ -311,6 +311,18 @@ main ul > li {
   outline: var(--color-focus-outline) solid 2px;
 }
 
+.game-attributes-table > thead > tr > th:nth-child(2) {
+  width: 28%;
+}
+
+.game-attributes-table > thead > tr > th:nth-child(3) {
+  width: 16%;
+}
+
+.game-attributes-table > thead > tr > th:nth-child(4) {
+  width: 27%;
+}
+
 .page-footer {
   width: 100%;
   margin-top: 3em;

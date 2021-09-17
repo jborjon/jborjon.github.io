@@ -35,7 +35,8 @@ id: portfolio
 
 <h2 class="portfolio-section-title">Technical Writing</h2>
 
-{%- assign technical_pieces = site.data.portfolio_files | where: "article_type", "technical_file" %}
+{%- assign technical_files = site.data.portfolio_files | where: "article_type", "technical_file" %}
+{%- assign technical_pieces = site.pages | where: "article_type", "technical_document" | concat: technical_files %}
 {%- for piece in technical_pieces %}
   {% include article-link-logic.html article=piece is_lazy_loaded=true %}
 {%- endfor %}
