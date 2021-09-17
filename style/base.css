@@ -275,7 +275,7 @@ main ul > li {
 }
 
 .article-title {
-  margin: 0 auto 0;
+  margin: 0 auto .7rem;
 }
 
 .word-count {
