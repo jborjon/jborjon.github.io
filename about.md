@@ -1,12 +1,12 @@
 ---
-title: "About: How to Leverage My Brain to Get Amazing Content"
+title: "About: Why Leverage My Brain to Get Amazing Content"
 layout: info-page
 id: about
 ---
 
 Hi, I'm Joseph. I live, breathe, and dream writing so you can focus on running your business without ever worrying about your content.
 
-Thanks to my crazy journey, I believe it's now my duty to empower people through first-rate writing, because I want them to crush their goals even if they don't have the time or inclination to write.
+Thanks to my crazy journey, I see it as my duty now to empower people through first-rate writing, because I want them to crush their goals even if they don't have the time or inclination to write.
 
 I love to craft first-rate content that impels readers, and to use my [storytelling](https://hbr.org/2011/03/using-stories-as-a-tool-of-per){:target="_blank" rel="noopener"} expertise to persuade and move people to action.
 
