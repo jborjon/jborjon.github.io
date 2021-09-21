@@ -8,7 +8,7 @@ Hi, I'm Joseph. I live, breathe, and dream writing so you can focus on running y
 
 Thanks to my crazy journey, I see it as my duty now to empower people through first-rate writing, because I want them to crush their goals even if they don't have the time or inclination to write.
 
-I love to craft first-rate content that impels readers, and to use my [storytelling](https://hbr.org/2011/03/using-stories-as-a-tool-of-per){:target="_blank" rel="noopener"} expertise to persuade and move people to action.
+I love to craft sparkling content that impels readers, and to use my [storytelling](https://hbr.org/2011/03/using-stories-as-a-tool-of-per){:target="_blank" rel="noopener"} expertise to persuade and move people to action.
 
 ## My Background
 
