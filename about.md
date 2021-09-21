@@ -14,7 +14,7 @@ I love to craft first-rate content that impels readers, and to use my [storytell
 
 Through my writing, I've helped some 300 clients---from students to CEOs---across the US advance their careers. I've written content for several online publications on business, technology, health, career strategy, and other topics.
 
-I have a B.S. in business management and lots of computer and data science credits from BYU-Idaho. I can research the most technical topics and create SEO friendly content.
+I have a B.S. in business management and lots of computer and data science credits from BYU-Idaho. I can research the most technical topics and create SEO-friendly content.
 
 I'm blessed with a gift for grammar and spelling; I often spot errors out of the corner of my eye. I can do it with native fluency in English and Spanish.
 
