@@ -6,20 +6,9 @@ layout: compress
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="author" content="Joseph Borjon">
-    {%- if page.description %}
-    <meta name="description" content="{{ page.description }}">
-    {% else %}
-    <meta name="description" content="{{ site.description }}">
-    {% endif -%}
-    {%- if page.layout == "article" %}
-    <meta name="robots" content="noindex, nofollow">
-    {% endif -%}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#2a4a70">
 
     {% assign occupation = "Copywriter and Content Writer" -%}
-  
+
     {% if page.id == "home" -%}
     <meta http-equiv="refresh" content="0; URL=/portfolio/">
     <title>{{ site.name }}, {{ occupation }}</title>
@@ -29,18 +18,16 @@ layout: compress
     <title>{{ page.title }} — {{ site.name }}, {{ occupation }}</title>
     {% endif %}
 
-    {%- if page.id == "home" %}
-    <link rel="canonical" href="{{ site.url }}">
-    {% endif -%}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3TZ2J69WKS"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-    <link rel="icon" sizes="32x32" href="/favicons/favicon-32.png">
-    <link rel="icon" sizes="128x128" href="/favicons/favicon-128.png">
-    <link rel="icon" sizes="192x192" href="/favicons/favicon-192.png">
-    <link rel="icon" sizes="196x196" href="/favicons/favicon-196.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/favicons/favicon-152.png">
-    <link rel="apple-touch-icon" sizes="167x167" href="/favicons/favicon-167.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/favicon-180.png">
-  
+      gtag('config', 'G-3TZ2J69WKS');
+    </script>
+
     <link rel="preload" href="https://fonts.gstatic.com/s/playfairdisplay/v22/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtM.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="https://fonts.gstatic.com/s/oswald/v36/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiZQ.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="https://fonts.gstatic.com/s/merriweather/v22/u-440qyriQwlOrhSvowK_l5-fCZM.woff2" as="font" type="font/woff2" crossorigin>
@@ -59,15 +46,29 @@ layout: compress
     <script defer src="/scripts/decode.min.js"></script>
     <script defer src="https://kwes.io/v2/kwes-script.js"></script>
     {%- endif %}
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3TZ2J69WKS"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
 
-      gtag('config', 'G-3TZ2J69WKS');
-    </script>
+    <link rel="icon" sizes="32x32" href="/favicons/favicon-32.png">
+    <link rel="icon" sizes="128x128" href="/favicons/favicon-128.png">
+    <link rel="icon" sizes="192x192" href="/favicons/favicon-192.png">
+    <link rel="icon" sizes="196x196" href="/favicons/favicon-196.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/favicons/favicon-152.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="/favicons/favicon-167.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/favicon-180.png">
+    {%- if page.id == "home" %}
+    <link rel="canonical" href="{{ site.url }}">
+    {% endif -%}
+
+    <meta name="author" content="Joseph Borjon">
+    {%- if page.description %}
+    <meta name="description" content="{{ page.description }}">
+    {% else %}
+    <meta name="description" content="{{ site.description }}">
+    {% endif -%}
+    {%- if page.layout == "article" %}
+    <meta name="robots" content="noindex, nofollow">
+    {% endif -%}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#2a4a70">
   </head>
 
   <body>
