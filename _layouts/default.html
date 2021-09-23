@@ -83,7 +83,7 @@ layout: compress
       </nav>
     </header>
 
-    <main {%- if page.id != "home" %} class="main-content-wrapper" {%- endif %}>
+    <main class="{%- if page.id == 'home-draft' -%} main-content-home {%- else -%} main-content-wrapper {%- endif %}">
       {{ content }}
     </main>
 
