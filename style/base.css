@@ -79,7 +79,7 @@ body {
   grid-template-rows: auto 1fr auto;
 }
 
-main {
+.main-content-wrapper {
   margin: 0 auto;
   padding: 1em 1.3rem;
   max-width: var(--content-width);
@@ -88,19 +88,19 @@ main {
   word-break: break-word;
 }
 
-main p,
-main ul,
-main ol {
+.main-content-wrapper p,
+.main-content-wrapper ul,
+.main-content-wrapper ol {
   line-height: 1.5;
 }
 
-main h2 {
+.main-content-wrapper h2 {
   margin: .65em auto .65em;
   color: var(--color-brand);
   font-size: 1.8em;
 }
 
-main h3 {
+.main-content-wrapper h3 {
   font-size: 1.4em;
 }
 
@@ -230,8 +230,8 @@ blockquote {
   color: var(--color-brand);
 }
 
-main ol > li,
-main ul > li {
+.main-content-wrapper ol > li,
+.main-content-wrapper ul > li {
   margin-bottom: .5em;
 }
 
