@@ -1,12 +1,14 @@
 ---
-title: Professional Short Bios
+title: Short Bios
 article_type: messaging_piece
 category: Professional Branding
 featured_image: fountain-pen-writing.jpg
 featured_image_alt: A fountain pen writing on a piece of paper
 ---
 
-*This is a sample of the many bios I wrote for a counseling center serving hundreds of clients in a major metropolitan area. I changed subjects' names and other personal details to respect their privacy.*
+*This is a sample of the many bios I wrote for a counseling center serving hundreds of clients in a major metropolitan area. The result was a much more cohesive and compelling message for their audience.*
+
+*I changed subjects' names and other personal details to respect their privacy.*
 
 ## Marilyn Sattler, LCSW
 
