@@ -19,10 +19,10 @@ id: portfolio
   {% include article-link-logic.html article=post is_lazy_loaded=do_lazy_load %}
 {%- endfor %}
 
-<h2 class="portfolio-section-title">Company Stories</h2>
+<h2 class="portfolio-section-title">Brand Messaging</h2>
 
-{%- assign company_stories = site.pages | where: "article_type", "company_story" | sort: "category" %}
-{%- for story in company_stories %}
+{%- assign messaging_pieces = site.pages | where: "article_type", "messaging_piece" | sort: "category" %}
+{%- for story in messaging_pieces %}
   {% include article-link-logic.html article=story is_lazy_loaded=true %}
 {%- endfor %}
 
