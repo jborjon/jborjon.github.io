@@ -6,6 +6,13 @@ id: portfolio
 
 <p>Enjoy reading a few samples of my work written for businesses and other organizations.</p>
 
+<h2 class="portfolio-section-title">Brand Messaging</h2>
+
+{%- assign messaging_pieces = site.pages | where: "article_type", "messaging_piece" | sort: "category" %}
+{%- for story in messaging_pieces reversed %}
+  {% include article-link-logic.html article=story is_lazy_loaded=true %}
+{%- endfor %}
+
 <h2 class="portfolio-section-title">Articles</h2>
 
 {%- assign posts = site.pages | where: "article_type", "post" | sort: "category" %}
@@ -17,13 +24,6 @@ id: portfolio
   {%- endif %}
 
   {% include article-link-logic.html article=post is_lazy_loaded=do_lazy_load %}
-{%- endfor %}
-
-<h2 class="portfolio-section-title">Brand Messaging</h2>
-
-{%- assign messaging_pieces = site.pages | where: "article_type", "messaging_piece" | sort: "category" %}
-{%- for story in messaging_pieces %}
-  {% include article-link-logic.html article=story is_lazy_loaded=true %}
 {%- endfor %}
 
 <h2 class="portfolio-section-title">Product Descriptions</h2>

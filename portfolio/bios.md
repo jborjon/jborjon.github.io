@@ -1,12 +1,12 @@
 ---
-title: Short Bios
+title: Bios
 article_type: messaging_piece
 category: Professional Branding
 featured_image: fountain-pen-writing.jpg
 featured_image_alt: A fountain pen writing on a piece of paper
 ---
 
-*This is a sample of the many bios I wrote for a counseling center serving hundreds of clients in a major metropolitan area. The result was a much more cohesive and compelling message that directly addressed the audience's concerns.*
+*This is a sample of the many professional bios I wrote for a counseling center serving hundreds of clients in a major metropolitan area. The result was a much more cohesive and compelling message that directly addressed the audience's concerns.*
 
 *I changed subjects' names and other personal details to protect their privacy.*
 
