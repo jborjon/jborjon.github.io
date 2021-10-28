@@ -10,14 +10,20 @@ id: portfolio
 
 {%- assign messaging_pieces = site.pages | where: "article_type", "messaging_piece" | sort: "category" %}
 {%- for story in messaging_pieces reversed %}
-  {% include article-link-logic.html article=story is_lazy_loaded=true %}
+  {%- if forloop.index > 3 %}
+    {%- assign do_lazy_load = true %} {% comment %} Lazy-load only the top n images {% endcomment %}
+  {%- else %}
+    {%- assign do_lazy_load = false %}
+  {%- endif %}
+
+  {% include article-link-logic.html article=story is_lazy_loaded=do_lazy_load %}
 {%- endfor %}
 
 <h2 class="portfolio-section-title">Articles</h2>
 
 {%- assign posts = site.pages | where: "article_type", "post" | sort: "category" %}
 {%- for post in posts reversed %}
-  {%- if forloop.index > 3 %}
+  {%- if forloop.index > 1 %}
     {%- assign do_lazy_load = true %} {% comment %} Lazy-load only the top n images {% endcomment %}
   {%- else %}
     {%- assign do_lazy_load = false %}
