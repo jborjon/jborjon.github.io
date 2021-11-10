@@ -46,7 +46,7 @@ She is ever the proverbial grandmother, taking care of (and feeding) everyone ar
 
 In his practice, Mel creates a refuge of unconditional safety and acceptance, empowering his clients to heal from their trauma. He specializes in treating the military and veteran communities, first responders, and anyone experiencing challenges with trauma, depression, anxiety, anger management, and substance use.
 
-Mel holds a master's degree in counseling from the University of Phoenix. He has specialized training in trauma-focused, cognitive-behavioral, EMDR, and IFS therapy. In his eight years of practice, his clients consistently report a sense of growth and relief from trauma-related symptoms.
+Mel holds a master's degree in counseling from the University of Phoenix. He has specialized training in trauma-focused, cognitive-behavioral, EMDR, and IFS therapy. In his eight years of practice, he's had clients consistently report a sense of growth and relief from their trauma-related symptoms.
 
 After overcoming his own struggles with the help of counselors, Mel decided to become a therapist himself. His goal is to relieve as much suffering for as many people as possible. He holds his 16-year marriage, sense of humor, and joy of living close to his heart.
 
