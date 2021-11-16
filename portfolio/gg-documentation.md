@@ -18,7 +18,7 @@ The player gets a number of points for hitting enemies and bombs, and loses poin
 In case you're itching to know: Flak is short for *Flugzeugabwehrkanone* (say it fast 10 times), which is German for "aircraft defense cannon." Anti-aircraft artillery.
 
 
-## Getting Started
+## Getting started
 
 ### Prerequisites
 
