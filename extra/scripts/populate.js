@@ -8,8 +8,6 @@
     }
 
     function createCards(phraseData) {
-        const cardList = document.querySelector("#card-list");
-
         appendListItems(cardList, 2, "", phraseData.people);
         appendListItems(cardList, 2, "The", phraseData.occupations);
         appendListItems(cardList, 6, "", phraseData.things);
@@ -28,8 +26,10 @@
         return array[Math.floor(Math.random() * array.length)];
     }
 
+    const cardList = document.querySelector("#card-list");
     let playButton = document.querySelector("#play-button");
     playButton.addEventListener("click", event => {
+        cardList.replaceChildren();
         populate();
     });
 }
