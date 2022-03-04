@@ -11,11 +11,16 @@
         const doc = document;
         const cardList = doc.querySelector("#card-list");
 
+        appendListItems(cardList, 2, phraseData.people);
+        appendListItems(cardList, 2, phraseData.occupations);
+        appendListItems(cardList, 6, phraseData.things);
+    }
+
+    function appendListItems(cardList, numItems, arrayFrom) {
         let cardListItem;
-        const numPeople = 2;
-        for (let i = 0; i < numPeople; ++i) {
+        for (let i = 0; i < numItems; ++i) {
             cardListItem = doc.createElement("li");
-            cardListItem.textContent = pickRandomItem(phraseData.people);
+            cardListItem.textContent = pickRandomItem(arrayFrom);
             cardList.appendChild(cardListItem);
         }
     }
