@@ -15,9 +15,12 @@
         const numPeople = 4;
         for (let i = 0; i < numPeople; ++i) {
             cardListItem = doc.createElement("li");
-            cardListItem.textContent = pickRandomItem(phraseData.people);
+            cardListItem.textContent = "Hallo";//pickRandomItem(phraseData.people);
             cardList.appendChild(cardListItem);
         }
+        const p = doc.createElement("p");
+        p.textContent = phraseData.people[1];
+        cardList.appendChild(p);
     }
 
     function pickRandomItem(array) {
