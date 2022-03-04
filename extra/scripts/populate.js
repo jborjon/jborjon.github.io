@@ -20,7 +20,7 @@
 
             // Prepend 'the' or 'a' only if we know we need it
             if (hasArticle) {
-                const article = Math.random < 0.5 ? "the" : "a";
+                const article = Math.random < 0.5 ? "The" : "A(n)";
                 cardListItem.textContent = `${article} ${pickRandomItem(sourceArray)}`;
             } else {
                 cardListItem.textContent = pickRandomItem(sourceArray);
