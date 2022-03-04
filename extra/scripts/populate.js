@@ -29,7 +29,7 @@
     }
 
     let playButton = document.querySelector("#play-button");
-    playButton.addEventListener("click", => {
+    playButton.addEventListener("click", event => {
         populate();
     });
 }
