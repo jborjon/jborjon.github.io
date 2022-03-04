@@ -8,8 +8,7 @@
     }
 
     function createCards(phraseData) {
-        const doc = document;
-        const cardList = doc.querySelector("#card-list");
+        const cardList = document.querySelector("#card-list");
 
         appendListItems(cardList, 2, phraseData.people);
         appendListItems(cardList, 2, phraseData.occupations);
@@ -17,6 +16,7 @@
     }
 
     function appendListItems(cardList, numItems, arrayFrom) {
+        const doc = document;
         let cardListItem;
         for (let i = 0; i < numItems; ++i) {
             cardListItem = doc.createElement("li");
