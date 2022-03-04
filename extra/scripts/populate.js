@@ -16,10 +16,9 @@
     }
 
     function appendListItems(cardList, numItems, arrayFrom) {
-        const doc = document;
         let cardListItem;
         for (let i = 0; i < numItems; ++i) {
-            cardListItem = doc.createElement("li");
+            cardListItem = document.createElement("li");
             cardListItem.textContent = pickRandomItem(arrayFrom);
             cardList.appendChild(cardListItem);
         }
