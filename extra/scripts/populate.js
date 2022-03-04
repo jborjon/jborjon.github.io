@@ -12,7 +12,7 @@
         const cardContainer = doc.querySelector("#card-container");
         const p = doc.createElement("p");
         
-        p.textContent(phraseData.people[1]);
+        p.textContent = phraseData.people[1];
         cardContainer.appendChild(p);
     }
 
