@@ -9,11 +9,19 @@
 
     function createCards(phraseData) {
         const doc = document;
-        const cardContainer = doc.querySelector("#card-container");
-        const p = doc.createElement("p");
-        
-        p.textContent = phraseData.people[1];
-        cardContainer.appendChild(p);
+        const cardList = doc.querySelector("#card-list");
+
+        let cardListItem;
+        const numPeople = phraseData.people.length;
+        for (let i = 0; i < numPeople; ++i) {
+            cardListItem = doc.createElement("li");
+            cardListItem.textContent = pickRandomItem(phraseData.people);
+            cardList.appendChild(cardListItem);
+        }
+    }
+
+    function pickRandomItem(array) {
+        return array[Math.floor(Math.random() * array.length)];
     }
 
     populate();
