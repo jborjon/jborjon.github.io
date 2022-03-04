@@ -28,5 +28,8 @@
         return array[Math.floor(Math.random() * array.length)];
     }
 
-    populate();
+    let playButton = document.querySelector("#play-button");
+    playButton.addEventListener("click", => {
+        populate();
+    });
 }
