@@ -12,15 +12,12 @@
         const cardList = doc.querySelector("#card-list");
 
         let cardListItem;
-        const numPeople = 4;
+        const numPeople = 2;
         for (let i = 0; i < numPeople; ++i) {
             cardListItem = doc.createElement("li");
-            cardListItem.textContent = "Hallo";//pickRandomItem(phraseData.people);
+            cardListItem.textContent = pickRandomItem(phraseData.people);
             cardList.appendChild(cardListItem);
         }
-        const p = doc.createElement("p");
-        p.textContent = phraseData.people[1];
-        cardList.appendChild(p);
     }
 
     function pickRandomItem(array) {
