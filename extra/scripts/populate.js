@@ -10,16 +10,16 @@
     function createCards(phraseData) {
         const cardList = document.querySelector("#card-list");
 
-        appendListItems(cardList, 2, phraseData.people);
-        appendListItems(cardList, 2, phraseData.occupations);
-        appendListItems(cardList, 6, phraseData.things);
+        appendListItems(cardList, 2, "", phraseData.people);
+        appendListItems(cardList, 2, "The", phraseData.occupations);
+        appendListItems(cardList, 6, "", phraseData.things);
     }
 
-    function appendListItems(cardList, numItems, arrayFrom) {
+    function appendListItems(cardList, numItems, prefix, arrayFrom) {
         let cardListItem;
         for (let i = 0; i < numItems; ++i) {
             cardListItem = document.createElement("li");
-            cardListItem.textContent = pickRandomItem(arrayFrom);
+            cardListItem.textContent = `${prefix} ${pickRandomItem(arrayFrom)}`;
             cardList.appendChild(cardListItem);
         }
     }
