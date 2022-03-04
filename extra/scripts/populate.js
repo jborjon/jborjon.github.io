@@ -12,7 +12,7 @@
         const cardList = doc.querySelector("#card-list");
 
         let cardListItem;
-        const numPeople = phraseData.people.length;
+        const numPeople = 4;
         for (let i = 0; i < numPeople; ++i) {
             cardListItem = doc.createElement("li");
             cardListItem.textContent = pickRandomItem(phraseData.people);
