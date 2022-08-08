@@ -1,6 +1,5 @@
-(function () {
-  "use strict";
-
+'use strict';
+{
   function rotateText(cipherText) {
     // Thanks to Rachael at hellodevworld.com/365-days-of-coding/rot13-cipher-javascript-solution
     const offset = 13;
@@ -11,4 +10,4 @@
       contactInfo = "<" + "n uers" + "='znvygb:jbex" + "@wbfr" + "cuobewba.p" + "bz?fhowrpg=Vadhvel%20sebz%20Jrofvgr'>jbex" + "@wbfrcuobewba" + "." + "pb" + "z</n>";
 
   contactArea.innerHTML = rotateText(contactInfo);
-}());
+}
