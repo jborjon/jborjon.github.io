@@ -4,14 +4,45 @@ id: math
 layout: info-page
 ---
 
-<p>
-  <label for="equation-input">Type your equation in plain text:</label>
-  <textarea id="equation-input" rows="6" placeholder="Start typing your formula for world domination"></textarea>
-</p>
+<style>
+      textarea {
+        resize: none;
+      }
 
-<figure>
-  <p class="math-formula">
-    `d = sum p + root(5)((W^2 - 42) / 8) *** 2r int 777 > aleph Gamma gamma`
-  </p>
-  <figcaption>Figure 1.1: Formula for world domination.</figcaption>
-</figure>
+      figcaption,
+      #math-formula {
+        text-align: center;
+      }
+
+      #math-formula {
+        color: #006c80;
+        font-size: 1.5em;
+      }
+    </style>
+
+    <p>
+      <label for="math-input">Type your equation in plain text:</label>
+      <textarea id="math-input" rows="8" resize="none" autofocus placeholder="Start typing your formula for world domination"></textarea>
+    </p>
+
+    <figure>
+      <p id="math-formula"></p>
+      <figcaption>Figure 1.1: Formula for world domination.</figcaption>
+    </figure>
+
+    <script>
+      'use strict';
+      {
+        function outputFormula() {
+          MathJax.typesetPromise().then(() => {
+            mathFormula.innerHTML = '`' + mathInput.value + '`';
+            MathJax.typesetPromise();
+          }).catch((err) => console.warn(err.message));
+        }
+
+        let mathFormula = document.getElementById('math-formula'),
+            mathInput = document.getElementById('math-input');
+
+        mathInput.addEventListener('keyup', outputFormula);
+      }
+    </script>
