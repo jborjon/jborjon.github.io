@@ -44,7 +44,6 @@ layout: compress
     <link rel="stylesheet" href="/style/code-highlight.css">
     {% endif -%}
 
-    <script defer src="/scripts/copy-year.min.js"></script>
     {%- if page.id == "contact" %}
     <script defer src="/scripts/decode.min.js"></script>
     <script defer src="https://kwes.io/v2/kwes-script.js"></script>
@@ -100,7 +99,6 @@ layout: compress
     </main>
 
     <footer class="page-footer">
-      <!-- <p>© <span id="copyright-year"></span> Joseph Borjon</p> -->
       <p>© {{ "now" | date: "%Y" }} Joseph Borjon</p>
       <p><a href="/contact">Contact me</a></p>
     </footer>
