@@ -120,6 +120,7 @@ pre {
 
 textarea {
   color: var(--color-text-primary);
+  resize: none;
 }
 
 textarea,
